@@ -14,8 +14,8 @@
 
 <img src="http://artemij.com/images/artemij-fedosejev.jpg" width="250" alt="Artemij Fedosejev" />
 
-[Artemij Fedosejev](http://artemij.com)<br>
-artemij@theironyard.com<br>
-0044 777 40 44 700<br>
-[LinkedIn](http://linkedin.com/in/artemij)
-[Twitter](http://twitter.com/artemy)
+[Artemij Fedosejev](http://artemij.com)
++ artemij@theironyard.com
++ 0044 777 40 44 700
++ [LinkedIn](http://linkedin.com/in/artemij)
++ [Twitter](http://twitter.com/artemy)
