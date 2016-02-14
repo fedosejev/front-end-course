@@ -16,6 +16,6 @@
 
 [Artemij Fedosejev](http://artemij.com)<br />
 artemij@theironyard.com<br />
-<a href="tel:00447774044700">0044 777 40 44 700</a><br />
+0044 777 40 44 700<br />
 [LinkedIn](http://linkedin.com/in/artemij)<br />
 [Twitter](http://twitter.com/artemy)
