@@ -26,7 +26,7 @@
 
 5. Commit and push all files to your `portfolio` repository.
 6. Create a new local branch `gh-pages` and push it to the remote.
-7. Open `http://put-your-GitHub-username-here.github.io/portfolio` in Google Chrome.
+7. Open `http://put-your-GitHub-username-here.github.io/portfolio` in Google Chrome - make sure you see `Coming soon`.
 
 ## 2. Add your details to `front-end-course-students` repository
 
