@@ -39,7 +39,7 @@
 
 Write a bullet point summary of any problems that you've stumbled upon while doing this exercise and how did you solve them.
 
-Publish your solutions to your GitHub account: `https://github.com/fedosejev/tiy-front-end-course/week-01/day-01/solution-02.md`
+Publish your solutions to your GitHub account: `https://github.com/put-your-GitHub-username-here/tiy-front-end-course/week-01/day-01/solution-02.md`
 
 ## 3. Read about Terminal
 
@@ -48,7 +48,7 @@ Publish your solutions to your GitHub account: `https://github.com/fedosejev/tiy
 
 Write a bullet point summary of key ideas that you've learnt.
 
-Publish your solutions to your GitHub account: `https://github.com/fedosejev/tiy-front-end-course/week-01/day-01/solution-03.md`
+Publish your solutions to your GitHub account: `https://github.com/put-your-GitHub-username-here/tiy-front-end-course/week-01/day-01/solution-03.md`
 
 ## 4. Read throuth the following documentation articles
 
@@ -66,7 +66,7 @@ Publish your solutions to your GitHub account: `https://github.com/fedosejev/tiy
 
 Write a bullet point summary of key ideas and insights that you've learnt.
 
-Publish your solutions to your GitHub account: `https://github.com/fedosejev/tiy-front-end-course/week-01/day-01/solution-04.md`
+Publish your solutions to your GitHub account: `https://github.com/put-your-GitHub-username-here/tiy-front-end-course/week-01/day-01/solution-04.md`
 
 ## 5. Learn about Markdown
 
@@ -74,5 +74,5 @@ Publish your solutions to your GitHub account: `https://github.com/fedosejev/tiy
 
 Write a bullet point summary of key ideas and insights that you've learnt.
 
-Publish your solutions to your GitHub account: `https://github.com/fedosejev/tiy-front-end-course/week-01/day-01/solution-05.md`
+Publish your solutions to your GitHub account: `https://github.com/put-your-GitHub-username-here/tiy-front-end-course/week-01/day-01/solution-05.md`
 
