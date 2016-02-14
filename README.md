@@ -14,7 +14,7 @@
 
 ### Sublime Text
 
-1. Install and get familiar with [Sublime Text](http://www.sublimetext.com) version __3__.
+1. Install and get familiar with [Sublime Text 3](http://www.sublimetext.com).
 2. [Launch from Terminal](http://olivierlacan.com/posts/launch-sublime-text-3-from-the-command-line/)
 
 ## Your instructor
