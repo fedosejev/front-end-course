@@ -2,7 +2,7 @@
 
 #  Front End Engineering course in London, UK
 
-+ [Install](install.md)
++ [Install](install.md#install)
 + [Materials](#materials)
 + [Q/A](#qa)
 + [Your instructor](#your-instructor)
