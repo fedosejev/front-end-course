@@ -10,6 +10,13 @@
 
 - [x] [How to organise my solutions and project files?](questions-and-answers.md#how-to-organise-my-solutions-and-project-files)
 
+## Install
+
+### Sublime Text
+
+1. Install and get familiar with [Sublime Text](http://www.sublimetext.com).
+2. [Launch from Terminal](http://olivierlacan.com/posts/launch-sublime-text-3-from-the-command-line/)
+
 ## Your instructor
 
 <img src="http://artemij.com/images/artemij-fedosejev.jpg" width="250" alt="Artemij Fedosejev" />
