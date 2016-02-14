@@ -37,7 +37,7 @@
   + @artemij
   ```
 
-Write a bullet point summary of any problems that you've stumbled upon while doing this exercise and how did you solve them.
+Write a bullet point summary of any problems (if any) that you've stumbled upon while doing this exercise and how did you solve them.
 
 Publish your solutions to your GitHub account: `https://github.com/put-your-GitHub-username-here/tiy-front-end-course/week-01/day-01/solution-02.md`
 
