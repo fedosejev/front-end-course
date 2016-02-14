@@ -2,6 +2,13 @@
 
 #  Front End Engineering course in London, UK
 
+## Install
+
+### Sublime Text
+
+1. Install and get familiar with [Sublime Text 3](http://www.sublimetext.com).
+2. [Launch Sublime Text from Terminal](http://olivierlacan.com/posts/launch-sublime-text-3-from-the-command-line/)
+
 ## Week 1
 
 - [x] [Day 1](week-01/day-01/README.md) - Understanding Git.
@@ -9,13 +16,6 @@
 ## [Q/A](questions-and-answers.md)
 
 - [x] [How to organise my solutions and project files?](questions-and-answers.md#how-to-organise-my-solutions-and-project-files)
-
-## Install
-
-### Sublime Text
-
-1. Install and get familiar with [Sublime Text 3](http://www.sublimetext.com).
-2. [Launch Sublime Text from Terminal](http://olivierlacan.com/posts/launch-sublime-text-3-from-the-command-line/)
 
 ## Your instructor
 
