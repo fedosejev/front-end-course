@@ -17,7 +17,6 @@
 ---
 
 1. Clone your `portfolio` repository from remote to your local `~/gits` directory.
-
 2. Navigate into your new `~/gits/portfolio` directory and create the following empty files:
   + `README.md`
   + `.gitignore`
