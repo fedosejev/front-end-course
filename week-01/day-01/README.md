@@ -53,3 +53,7 @@ Learn more: https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
 + Book: https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
 + Cheat Sheet: https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
 + Reference: https://git-scm.com/docs
+
+## 4. [Do homework](homework.md)
+
+Ask Art if something is not clear!
