@@ -9,7 +9,7 @@
 
 ## Materials
 
-## Week 1
+### Week 1
 
 - [x] [Day 1](week-01/day-01/README.md) - Understanding Git.
 
