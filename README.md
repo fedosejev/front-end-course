@@ -2,9 +2,9 @@
 
 #  Front End Engineering course in London, UK
 
-## Install
+### Install
 
-### Sublime Text
+#### Sublime Text
 
 1. Install and get familiar with [Sublime Text 3](http://www.sublimetext.com).
 2. [Launch Sublime Text from Terminal](http://olivierlacan.com/posts/launch-sublime-text-3-from-the-command-line/).
