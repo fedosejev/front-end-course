@@ -78,4 +78,6 @@ Write a bullet point summary of key ideas and insights that you've learnt.
 
 Publish your solutions to your GitHub account: `https://github.com/put-your-GitHub-username-here/tiy-front-end-course/week-01/day-01/solution-05.md`
 
+## Well done!
+
 ![](https://media.giphy.com/media/xzRpQnFfrdVRu/giphy.gif)
