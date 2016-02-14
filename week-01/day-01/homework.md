@@ -41,7 +41,7 @@
 2. Edit `README.md` file and add your full name, link to your repository, and Slack username. For example:
 
   ```
-  + Artemij Fedosejev
+  ## Artemij Fedosejev
   + https://github.com/fedosejev
   + @artemij
   ```
