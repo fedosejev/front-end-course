@@ -1,5 +1,7 @@
 # Homework
 
+![](https://media.giphy.com/media/H6BkGmkcoj528/giphy.gif)
+
 ## 1. Create a new Git repository on GitHub.com
 
 + Repository name: `portfolio`
