@@ -26,11 +26,11 @@
 
 3. Open `index.html` file in Sublime Text and add the following line:
 
-`Coming soon`
+  `Coming soon`
 
 4. Open `.gitignore` file in Sublime Text and add the following line:
 
-`.DS_Store`
+  `.DS_Store`
 
 5. Commit and push all files to your `portfolio` repository.
 6. Create a new local branch `gh-pages` and push it to the remote.
