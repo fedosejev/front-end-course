@@ -35,6 +35,15 @@
 6. Create a new local branch `gh-pages` and push it to the remote.
 7. Open `http://put-your-GitHub-username-here.github.io/portfolio` in Google Chrome.
 
-## 4.
+## 4. Add your details to `front-end-course-students` repository
+
+1. Clone `https://github.com/fedosejev/front-end-course-students` repository.
+2. Edit `README.md` file and add your full name, link to your repository, and Slack username. For example:
+
+  ```
+  + Artemij Fedosejev
+  + https://github.com/fedosejev
+  + @artemij
+  ```
 
 
