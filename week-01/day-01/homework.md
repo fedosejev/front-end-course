@@ -5,9 +5,21 @@
 + http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line
 + https://gist.github.com/poopsplat/7195274
 
-## 2. Read throuth the official Git documentation
+## 2. Read throuth the following documentation articles
 
-+ https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
+Create notes on any insights that you had while reading it:
+
++ https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
++ https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository
++ https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History
++ https://git-scm.com/book/en/v2/Git-Basics-Undoing-Things
++ https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
++ https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell
++ https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
++ https://git-scm.com/book/en/v2/Git-Branching-Branch-Management
++ https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows
++ https://git-scm.com/book/en/v2/Git-Branching-Remote-Branches
++ https://git-scm.com/book/en/v2/Git-Branching-Rebasing
 
 ## 3. Create a new Git repository on GitHub.com
 
@@ -45,5 +57,9 @@
   + https://github.com/fedosejev
   + @artemij
   ```
+
+## 5. Learn about Markdown
+
++ https://guides.github.com/features/mastering-markdown/
 
 
