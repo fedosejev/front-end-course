@@ -54,6 +54,6 @@ Learn more: https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
 + Cheat Sheet: https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
 + Reference: https://git-scm.com/docs
 
-## 4. [Do homework](homework.md)
+## 4. [Do homework](homework.md#homework)
 
 Ask Art if something is not clear!
