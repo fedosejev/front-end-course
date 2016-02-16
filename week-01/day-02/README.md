@@ -21,7 +21,7 @@ Plus:
 + [Problems](problems.md)
 + [Guides](#guides)
 + [Tips and Tricks](#tips-and-tricks)
-+ [References](#references)
++ [Learn more](#learn-more)
 
 ## Questions
 
