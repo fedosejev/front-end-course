@@ -12,7 +12,8 @@
 
 ### Week 1
 
-- [x] [Day 1](week-01/day-01/README.md) - Understanding Git.
+- [x] [Day 1](week-01/day-01/README.md) - Understanding Git and GitHub.com.
+- [x] [Day 2](week-01/day-02/README.md) - Understanding how a website works.
 
 ## [Q/A](questions-and-answers.md)
 
