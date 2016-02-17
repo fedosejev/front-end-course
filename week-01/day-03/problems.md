@@ -26,7 +26,7 @@ Explain why do we need `<thead>`, `<tbody>` and `<tfoot>`?
 
 ## Problem 3
 
-Create a web page (`day-02/solution-03/index.html` file) that renders this list:
+Create a web page (`day-03/solution-03/index.html` file) that renders this list:
 
 <ul>
   <li>Milk</li>
@@ -36,7 +36,7 @@ Create a web page (`day-02/solution-03/index.html` file) that renders this list:
 
 ## Problem 4
 
-Create a web page (`day-02/solution-04/index.html` file) with the following information structured in a list:
+Create a web page (`day-03/solution-04/index.html` file) with the following information structured in a list:
 
 ```
 Monday
@@ -52,7 +52,7 @@ _Hint_: think about order.
 
 ## Problem 5
 
-Create a markdown file (`day-02/solution-05/README.md` file) with the following table using HTML:
+Create a markdown file (`day-03/solution-05/README.md` file) with the following table using HTML:
 
 <table>
   <tr>
@@ -111,7 +111,7 @@ _Hint_: search for _spanning columns_.
 
 ## Problem 6
 
-Create a markdown file (`day-02/solution-06/README.md` file) with the following table using HTML:
+Create a markdown file (`day-03/solution-06/README.md` file) with the following table using HTML:
 
 <table>
   <tr>
@@ -148,7 +148,7 @@ Create a markdown file (`day-02/solution-06/README.md` file) with the following 
 
 ## Problem 7
 
-Create a markdown file (`day-02/solution-07/README.md`) with the following table using HTML:
+Create a markdown file (`day-03/solution-07/README.md`) with the following table using HTML:
 
 <table>
   <tr>
@@ -173,7 +173,7 @@ Create a markdown file (`day-02/solution-07/README.md`) with the following table
 
 ## Problem 8
 
-Create a markdown file (`day-02/solution-08/README.md`) with the following table using HTML:
+Create a markdown file (`day-03/solution-08/README.md`) with the following table using HTML:
 
 <table>
   <tr>
@@ -197,19 +197,19 @@ Create a markdown file (`day-02/solution-08/README.md`) with the following table
 
 ## Problem 9
 
-Create a web page (`day-02/solution-09/index.html` file) with the comment form:
+Create a web page (`day-03/solution-09/index.html` file) with the comment form:
 
 ![](problem-07.png)
 
 ## Problem 10
 
-Create a web page (`day-02/solution-10/index.html` file) with the product size form:
+Create a web page (`day-03/solution-10/index.html` file) with the product size form:
 
 ![](problem-08.png)
 
 ## Problem 11
 
-Create a web page (`day-02/solution-11/index.html` file) with the questionnaire form:
+Create a web page (`day-03/solution-11/index.html` file) with the questionnaire form:
 
 ![](problem-09.png)
 
@@ -261,7 +261,7 @@ It should have:
 + Embed Google Maps pointing to The Shard location. Instructions: https://support.google.com/maps/answer/3544418?hl=en
 + Links to newspaper articles about The Shard (all should open in a new tab).
 
-Create `day-02/solution-13/index.html` file with a valid HTML markup.
+Create `day-03/solution-13/index.html` file with a valid HTML markup.
 
 Think of a structure.
 
