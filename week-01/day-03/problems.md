@@ -1,4 +1,4 @@
-# Day 2 Problems
+# Problems
 
 Alright, let's get busy!
 
