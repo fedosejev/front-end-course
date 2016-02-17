@@ -16,7 +16,7 @@ Questions:
 Plus:
 
 + [Problems](problems.md)
-+ [References](#references)
++ [Learn more](#learn-more)
 
 ## Questions
 
@@ -552,6 +552,13 @@ How about other input types?
 
 + [Example](http://jsbin.com/sedahozudo/edit?html,output)
 
+## Examples of student portfolios
+
++ http://driiven.com/
++ http://ryanatkinson.tech/
++ http://rdanieldesign.com/richarddaniel/#/
++ http://kelleyrose.co/
+
 ## [Problems](problems.md)
 
 ![](http://i.imgur.com/4pvKx8O.gif)
@@ -571,7 +578,7 @@ How about other input types?
 + [Problem 13](problems.md#problem-13)
 + [Problem 14](problems.md#problem-14)
 
-## References
+## Learn more
 
 1. HyperText Markup Language (HTML): https://en.wikipedia.org/wiki/HTML
 2. List of all HTML tags: https://developer.mozilla.org/en/docs/Web/HTML/Element
