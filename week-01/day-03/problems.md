@@ -278,7 +278,16 @@ Research and explain what `<iframe></iframe>` is good for?
 Build your portfolio page in https://github.com/your-username/portfolio repository.
 
 + Update `index.html` file.
-+ 
++ Provide:
+  + Summary
+  + Your previous experience
+  + Your education
+  + Your social media profiles and contact details
+
++ Think about structure and semantics.
++ Don't worry about styling.
+
+Make sure your portfolio page is availble on https://your-username.github.io/portfolio
 
 ## Well done!
 
