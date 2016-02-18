@@ -125,6 +125,19 @@ External style sheet file:
   </tr>
 
   <tr>
+    <th>
+      Attribute selector
+    </th>
+    <td>
+      Matches elements that have <class>attribute</class>.
+      <br/>
+      Example:
+      <br/>
+      <code>[data-information="country"]</code>
+    </td>
+  </tr>
+
+  <tr>
     <td>
       Child selector
     </td>
