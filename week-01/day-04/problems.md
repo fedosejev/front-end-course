@@ -53,11 +53,24 @@ Research and explain the difference between `em` and `rem` units.
 
 ## Problem 6
 
-Style The Shard information page from Day 2.
+Style The Shard information page from Day 3.
 
-+ Improve layout with `padding`, `border`, `margin` properties.
-+ Use `display` property.
-+ Use `position` property.
++ Improve styling with:
+  + `font-family`
+  + `font-size`
+  + `font-weight`
+  + `color`
+  + `background-color`
+  + `text-decoration`
+  + `list-style-type`
+
++ Improve layout with:
+  + `width`
+  + `height`
+  + `padding`
+  + `border`
+  + `margin`
+  + `display`
 
 ## Well done!
 

@@ -359,7 +359,7 @@ CSS selectors can be more specific or less specific. More specific selectors win
   <tr>
     <td>1000</td>
     <td>
-      Inline style
+      Inline style attribute
       <br/>
       <code>style="color: red;"</code>
     </td>
@@ -375,9 +375,10 @@ CSS selectors can be more specific or less specific. More specific selectors win
   <tr>
     <td>10</td>
     <td>
-      Class (or pseudo class)
+      Class (or pseudo-class)
       <br />
       <code>.success</code>
+      <code>:hover</code>
     </td>
   </tr>
   <tr>
