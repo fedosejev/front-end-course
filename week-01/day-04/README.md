@@ -126,6 +126,19 @@ External style sheet file:
 
   <tr>
     <th>
+      Attribute selector
+    </th>
+    <td>
+      Matches elements that have <class>attribute</class> name.
+      <br/>
+      Example:
+      <br/>
+      <code>[data-information="country"]</code>
+    </td>
+  </tr>
+
+  <tr>
+    <th>
       Id selector
     </th>
     <td>
@@ -134,19 +147,6 @@ External style sheet file:
       Example:
       <br/>
       <code>#introduction {}</code>
-    </td>
-  </tr>
-
-  <tr>
-    <th>
-      Attribute selector
-    </th>
-    <td>
-      Matches elements that have <class>attribute</class>.
-      <br/>
-      Example:
-      <br/>
-      <code>[data-information="country"]</code>
     </td>
   </tr>
 
