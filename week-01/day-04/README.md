@@ -349,6 +349,14 @@ CSS selectors can be more specific or less specific. More specific selectors win
     <th>Selector type</th>
   </tr>
   <tr>
+    <td>10000</td>
+    <td>
+      `!important`
+      <br/>
+      <code>color: red !important;</code>
+    </td>
+  </tr>
+  <tr>
     <td>1000</td>
     <td>
       Inline style
