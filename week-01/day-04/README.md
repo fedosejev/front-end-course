@@ -377,10 +377,14 @@ CSS selectors can be more specific or less specific. More specific selectors win
     <td>
       Class, pseudo-class, attribute
       <br />
-      <code>.success</code>
-      <code>:hover</code>
-      <code>[data-message]</code>
-      <code>[data-message="welcome"]</code>
+      <table>
+        <tr>
+          <td><code>.success</code></td>
+          <td><code>:hover</code></td>
+          <td><code>[data-message]</code></td>
+          <td><code>[data-message="welcome"]</code></td>
+        </tr>
+      </table>
     </td>
   </tr>
   <tr>
