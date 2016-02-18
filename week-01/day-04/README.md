@@ -345,7 +345,7 @@ CSS selectors can be more specific or less specific. More specific selectors win
 
 <table>
   <tr>
-    <th>Point</th>
+    <th>Points</th>
     <th>Selector type</th>
   </tr>
   <tr>
