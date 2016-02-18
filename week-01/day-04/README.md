@@ -86,9 +86,9 @@ External style sheet file:
   </tr>
 
   <tr>
-    <td>
+    <th>
       Type selector
-    </td>
+    </th>
     <td>
       Matches element names.
       <br/>
@@ -99,9 +99,9 @@ External style sheet file:
   </tr>
 
   <tr>
-    <td>
+    <th>
       Class selector
-    </td>
+    </th>
     <td>
       Matches an element whose <class>class</class> attribute has a value that matches the one specificied after the full stop symbol.
       <br/>
@@ -112,9 +112,9 @@ External style sheet file:
   </tr>
 
   <tr>
-    <td>
+    <th>
       Id selector
-    </td>
+    </th>
     <td>
       Matches an element whose <class>id</class> attribute has a value that matches the one specificied after the hash symbol.
       <br/>
