@@ -458,6 +458,8 @@ h1 {
 }
 ```
 
++ [Example](http://jsbin.com/lohazavoli/edit?html,css,output)
+
 ### How to change element's position?
 
 + Use `position` property.
