@@ -73,9 +73,9 @@ External style sheet file:
   </tr>
 
   <tr>
-    <td>
+    <th>
       Universal selector
-    </td>
+    </th>
     <td>
       Applies to all elements in the document.
       <br/>
@@ -138,9 +138,9 @@ External style sheet file:
   </tr>
 
   <tr>
-    <td>
+    <th>
       Child selector
-    </td>
+    </th>
     <td>
       Matches an element that is a direct child of anohter.
       <br/>
@@ -151,9 +151,9 @@ External style sheet file:
   </tr>
 
   <tr>
-    <td>
+    <th>
       Descendant selector
-    </td>
+    </th>
     <td>
       Matches an element that is a descendent of another specified element (not just a direct child of that element).
       <br/>
@@ -164,9 +164,9 @@ External style sheet file:
   </tr>
 
   <tr>
-    <td>
+    <th>
       Adjacent sibling selector
-    </td>
+    </th>
     <td>
       Matches an element that is the next sibling of another.
       <br/>
@@ -177,9 +177,9 @@ External style sheet file:
   </tr>
 
   <tr>
-    <td>
+    <th>
       General sibling selector
-    </td>
+    </th>
     <td>
       Matches an element that is a sibling of another, although it does not have to be the directly preceding element.
       <br/>
