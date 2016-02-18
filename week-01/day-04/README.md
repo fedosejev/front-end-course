@@ -113,6 +113,19 @@ External style sheet file:
 
   <tr>
     <th>
+      Pseudo-class selector
+    </th>
+    <td>
+      Matches an element whose <class>state</class> matches the one specificied after the colon.
+      <br/>
+      Example:
+      <br/>
+      <code>:focus</code>
+    </td>
+  </tr>
+
+  <tr>
+    <th>
       Id selector
     </th>
     <td>
