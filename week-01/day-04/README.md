@@ -528,3 +528,8 @@ h1 {
 13. http://tympanus.net/codrops/css_reference/
 14. http://jsbin.com/pebayafoha/edit?html,css,output
 15. http://www.colorhexa.com/
+
+#### Layout
+
++ The Box Model: http://www.sitepoint.com/web-foundations/css-box-model/
+
