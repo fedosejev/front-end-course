@@ -390,9 +390,14 @@ CSS selectors can be more specific or less specific. More specific selectors win
   <tr>
     <td>10000</td>
     <td>
-      !important
-      <br/>
-      <code>color: red !important;</code>
+      <table>
+        <tr>
+          <th>!important</th>
+        </tr>
+        <tr>
+          <td><code>color: red !important;</code></td>
+        </tr>
+      </table>
     </td>
   </tr>
   <tr>
