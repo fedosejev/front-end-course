@@ -525,7 +525,6 @@ h1 {
 #### Fonts
 
 + Google Fonts: https://www.google.com/fonts
-+ Example of Google Fonts: http://jsbin.com/paxupu/edit?html,output
 + CSS Font Sizing: http://bitsofco.de/2015/css-font-sizing/?utm_source=designernews
 
 #### Specificity
