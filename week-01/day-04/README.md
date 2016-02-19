@@ -212,8 +212,8 @@ External style sheet file:
 
 __Group exercise:__
 
-2 people in a group.
-20 minutes maximum.
+2 people in a group.<br />
+15 minutes maximum.
 
 1. Group 1: research and explain __HEX__ colour value.
 2. Group 2: research and explain __RGB__ colour value.
