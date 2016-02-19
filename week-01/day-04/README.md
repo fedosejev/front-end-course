@@ -531,7 +531,7 @@ h1 {
 + Specifics on CSS Specificity: https://css-tricks.com/specifics-on-css-specificity/
 + Specificity calculator: http://specificity.keegan.st/
 
-### Tools
+### References
 
 + CSS validator: http://jigsaw.w3.org/css-validator/
 + Top margin and inline element: http://stackoverflow.com/a/10324608
