@@ -16,7 +16,7 @@
 - [x] [Day 2](week-01/day-02/README.md) - Understanding how a website works.
 - [x] [Day 3](week-01/day-03/README.md) - Understanding how to use HTML.
 - [x] [Day 4](week-01/day-04/README.md) - Understanding how to use CSS.
-- [x] [Project](week-01/project.md)
+- [x] [Project](week-01/project.md#project)
 
 ## [Q/A](questions-and-answers.md)
 
