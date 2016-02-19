@@ -11,6 +11,8 @@ __Layout:__
 + Row with 2 columns
 + Row with 3 columns
 + Footer
+
+__Structure:__
 + Lists
 + Tables
 
