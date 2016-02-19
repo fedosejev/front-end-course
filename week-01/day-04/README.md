@@ -494,3 +494,4 @@ h1 {
 12. Google HTML/CSS Style Guide: https://google.github.io/styleguide/htmlcssguide.xml
 13. http://tympanus.net/codrops/css_reference/
 14. http://jsbin.com/pebayafoha/edit?html,css,output
+15. http://www.colorhexa.com/
