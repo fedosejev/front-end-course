@@ -538,7 +538,7 @@ h1 {
 + Top margin and inline element: http://stackoverflow.com/a/10324608
 + A to Z CSS: http://www.atozcss.com/
 + Google HTML/CSS Style Guide: https://google.github.io/styleguide/htmlcssguide.xml
-+ http://tympanus.net/codrops/css_reference/
++ CSS reference: http://tympanus.net/codrops/css_reference/
 + Block Element Modifier (BEM): http://getbem.com/
 
 #### Layout
