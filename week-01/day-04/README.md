@@ -549,6 +549,6 @@ h1 {
 
 ##### Examples
 
-+ Float 1: http://jsbin.com/corogotazo/edit?html,css,output
++ Floating images: http://jsbin.com/corogotazo/edit?html,css,output
 + Layout with `float: left`: http://jsbin.com/yoboyumixo/edit?html,css,output
 + Layout with `position: absolute`: http://jsbin.com/molabaliyi/edit?html,css,output
