@@ -544,4 +544,5 @@ h1 {
 #### Layout
 
 + The Box Model: http://www.sitepoint.com/web-foundations/css-box-model/
++ Floating and clearing: http://www.sitepoint.com/web-foundations/floating-clearing-css/
 
