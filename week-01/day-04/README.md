@@ -443,7 +443,9 @@ The basis of CSS layout.
 
 ![](https://mdn.mozillademos.org/files/8685/boxmodel-(3).png)
 
-+ `box-sizing`
++ [Example](http://jsbin.com/meripepaha/edit?html,css,output)
+
+#### `box-sizing`
 
 ```css
 h1 {
