@@ -398,9 +398,14 @@ CSS selectors can be more specific or less specific. More specific selectors win
   <tr>
     <td>1000</td>
     <td>
-      Inline style attribute
-      <br/>
-      <code>style="color: red;"</code>
+      <table>
+        <tr>
+          <th>Inline style attribute</th>
+        </tr>
+        <tr>
+          <td><code>style="color: red;"</code></td>
+        </tr>
+      </table>
     </td>
   </tr>
   <tr>
