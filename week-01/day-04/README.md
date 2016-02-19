@@ -87,7 +87,7 @@ External style sheet file:
 
   <tr>
     <th>
-      Type selector
+      Element selector
     </th>
     <td>
       Matches element names.
@@ -95,6 +95,19 @@ External style sheet file:
       Example:
       <br/>
       <code>h1, h2, h3 {}</code>
+    </td>
+  </tr>
+
+  <tr>
+    <th>
+      Pseudo-element selector
+    </th>
+    <td>
+      Matches pseudo-element.
+      <br/>
+      Example:
+      <br/>
+      <code>::first-letter {}</code>
     </td>
   </tr>
 
@@ -423,7 +436,6 @@ CSS selectors can be more specific or less specific. More specific selectors win
       <table>
         <tr>
           <th>Element</th>
-          <th>Pseudo-element</th>
         </tr>
         <tr>
           <td><code>p</code></td>
