@@ -552,3 +552,4 @@ h1 {
 + Layout with `float: left`: http://jsbin.com/yoboyumixo/edit?html,css,output
 + Layout with `position: absolute`: http://jsbin.com/molabaliyi/edit?html,css,output
 + Containing block for absolutely positioned element: http://jsbin.com/gasulomomu/edit?html,css,output
++ Top and bottom margins collapsing: http://jsbin.com/bazejoruko/edit?html,css,output
