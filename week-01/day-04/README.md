@@ -467,6 +467,8 @@ h1 {
 + Use `position` property.
 + Use `top`, `left`, `bottom`, `right` properties.
 
++ [Example](http://jsbin.com/zuzozebena/edit?html,css,output)
+
 ## [Problems](problems.md)
 
 + [Problem 1](problems.md#problem-1)
