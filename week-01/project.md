@@ -1,6 +1,6 @@
 # Project
 
-## Brief
+## Task
 
 Create layout and styling for your portfolio page. Deploy your portfolio on GitHub Pages.
 
