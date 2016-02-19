@@ -420,9 +420,16 @@ CSS selectors can be more specific or less specific. More specific selectors win
   <tr>
     <td>1</td>
     <td>
-      Element
-      <br />
-      <code>p</code>
+      <table>
+        <tr>
+          <th>Element</th>
+          <th>Pseudo-element</th>
+        </tr>
+        <tr>
+          <td><code>p</code></td>
+          <td><code>::first-letter</code></td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
