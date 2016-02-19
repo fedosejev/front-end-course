@@ -439,7 +439,6 @@ CSS selectors can be more specific or less specific. More specific selectors win
         </tr>
         <tr>
           <td><code>p</code></td>
-          <td><code>::first-letter</code></td>
         </tr>
       </table>
     </td>
