@@ -519,6 +519,7 @@ h1 {
 + Colours: http://colours.neilorangepeel.com/
 + Color Hex Color Codes: http://www.color-hex.com/
 + Color mixer: http://www.colorhexa.com/
++ HSL colour picker: http://hslpicker.com/
 
 #### Fonts
 
