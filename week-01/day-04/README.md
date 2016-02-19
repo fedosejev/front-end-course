@@ -547,7 +547,7 @@ h1 {
 + The Box Model: http://www.sitepoint.com/web-foundations/css-box-model/
 + Floating and clearing: http://www.sitepoint.com/web-foundations/floating-clearing-css/
 
-##### Examples
+#### Examples
 
 + Floating image: http://jsbin.com/corogotazo/edit?html,css,output
 + Layout with `float: left`: http://jsbin.com/yoboyumixo/edit?html,css,output
