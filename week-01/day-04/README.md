@@ -406,9 +406,14 @@ CSS selectors can be more specific or less specific. More specific selectors win
   <tr>
     <td>100</td>
     <td>
-      Id
-      <br/>
-      <code>#important</code>
+      <table>
+        <tr>
+          <th>Id</th>
+        </tr>
+        <tr>
+          <td><code>#important</code></td>
+        </tr>
+      </table>
     </td>
   </tr>
   <tr>
