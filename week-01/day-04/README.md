@@ -502,50 +502,6 @@ h1 {
 
 + [Example](http://jsbin.com/zuzozebena/edit?html,css,output)
 
-## Layout
-
-## [The CSS Box Model](http://www.sitepoint.com/web-foundations/css-box-model/)
-
-+ [Example 1](http://jsbin.com/nukegu/edit?html,output)
-+ [Example 2](http://jsbin.com/milora/edit?html,output)
-+ [Example 3](http://jsbin.com/qugure/edit?html,output)
-
-## [Containing Block](http://reference.sitepoint.com/css/containingblock)
-
-+ [Example 4](http://jsbin.com/dilejep/edit?html,output)
-+ [Example 5](http://jsbin.com/padabo/edit?html,output)
-+ [Example 6](http://jsbin.com/yumiru/edit?html,output)
-
-## [Collapsing Margins](http://www.sitepoint.com/web-foundations/collapsing-margins/)
-
-+ [Example 7](http://jsbin.com/reyedo/edit?html,output)
-+ [Example 8](http://jsbin.com/bukoci/edit?html,output)
-+ [Example 9](http://jsbin.com/vuzeqex/edit?html,output)
-+ [Example 10](http://jsbin.com/fomube/edit?html,output)
-
-## [Relative Positioning](http://www.sitepoint.com/web-foundations/relative-positioning/)
-
-+ [Example 11](http://jsbin.com/jikiwa/edit?html,output)
-+ [Example 12](http://jsbin.com/rememo/edit?html,output)
-
-## [Absolute Positioning](http://reference.sitepoint.com/css/absolutepositioning)
-
-+ [Example 13](http://jsbin.com/rememo/edit?html,output)
-
-## [Stacking Contexts](http://reference.sitepoint.com/css/stacking)
-
-+ [Example 14](http://jsbin.com/ziweki/edit?html,output)
-
-## [Floating and Clearing in CSS](http://www.sitepoint.com/web-foundations/floating-clearing-css/)
-
-+ [Example 15](http://jsbin.com/xobefi/edit?html,output)
-+ [Example 16](http://jsbin.com/nutoco/edit?html,output)
-+ [Example 17](http://jsbin.com/goxese/edit?html,output)
-
-## Relative dimensions
-
-+ [Example 18](http://jsbin.com/tihede/edit?html,output)
-
 ## [Problems](problems.md)
 
 + [Problem 1](problems.md#problem-1)
