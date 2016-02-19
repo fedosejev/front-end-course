@@ -4,7 +4,7 @@
 
 Create layout and styling for your portfolio page. Deploy your portfolio on GitHub Pages.
 
-## Specification
+## Minimum Specification
 
 __Layout:__
 + Header
