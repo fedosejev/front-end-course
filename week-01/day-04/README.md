@@ -513,21 +513,31 @@ h1 {
 
 ## Learn more
 
-1. The Code Side Of Color: http://www.smashingmagazine.com/2012/10/the-code-side-of-color/
-2. Colours: http://colours.neilorangepeel.com/
-3. Color Hex Color Codes: http://www.color-hex.com/
-4. Google Fonts: https://www.google.com/fonts
-5. Example of Google Fonts: http://jsbin.com/paxupu/edit?html,output
-6. CSS Font Sizing: http://bitsofco.de/2015/css-font-sizing/?utm_source=designernews
-7. Specifics on CSS Specificity: https://css-tricks.com/specifics-on-css-specificity/
-8. Specificity calculator: http://specificity.keegan.st/
-9. CSS validator: http://jigsaw.w3.org/css-validator/
-10. Top margin and inline element: http://stackoverflow.com/a/10324608
-11. A to Z CSS: http://www.atozcss.com/
-12. Google HTML/CSS Style Guide: https://google.github.io/styleguide/htmlcssguide.xml
-13. http://tympanus.net/codrops/css_reference/
-14. http://jsbin.com/pebayafoha/edit?html,css,output
-15. http://www.colorhexa.com/
+#### Colour
+
++ The Code Side Of Color: http://www.smashingmagazine.com/2012/10/the-code-side-of-color/
++ Colours: http://colours.neilorangepeel.com/
++ Color Hex Color Codes: http://www.color-hex.com/
++ Color mixer: http://www.colorhexa.com/
+
+#### Fonts
+
++ Google Fonts: https://www.google.com/fonts
++ Example of Google Fonts: http://jsbin.com/paxupu/edit?html,output
++ CSS Font Sizing: http://bitsofco.de/2015/css-font-sizing/?utm_source=designernews
+
+#### Specificity
+
++ Specifics on CSS Specificity: https://css-tricks.com/specifics-on-css-specificity/
++ Specificity calculator: http://specificity.keegan.st/
+
+### Tools
+
++ CSS validator: http://jigsaw.w3.org/css-validator/
++ Top margin and inline element: http://stackoverflow.com/a/10324608
++ A to Z CSS: http://www.atozcss.com/
++ Google HTML/CSS Style Guide: https://google.github.io/styleguide/htmlcssguide.xml
++ http://tympanus.net/codrops/css_reference/
 
 #### Layout
 
