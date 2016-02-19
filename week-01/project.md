@@ -18,6 +18,8 @@ __Style__:
 + Think about and choose wisely your font sizes.
 + Use icons from [FontAwesome](https://fortawesome.github.io/Font-Awesome/icons/).
 + Use `strong` and `em`.
++ Lists.
++ Tables.
 
 __Choose carefully__:
 + HTML tags.
