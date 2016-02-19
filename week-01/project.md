@@ -25,7 +25,7 @@ __Choose carefully__:
 + Id names (if you choose to use ids).
 + Your selectors and their specificity.
 
-__Collaborate__
+__Collaborate!__
 
 ## Deadline
 
