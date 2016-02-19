@@ -18,9 +18,9 @@ __Structure:__
 
 __Style__:
 + Choose 2 or 3 main colours.
-+ Choose 1 or 2 custom fonts. Use Google Fonts.
++ Choose 1 or 2 custom fonts. Use [Google Fonts](https://www.google.com/fonts).
 + Think about and choose wisely your font sizes.
-+ Use icons from [FontAwesome](https://fortawesome.github.io/Font-Awesome/icons/).
++ Use icons from [Font Awesome](https://fortawesome.github.io/Font-Awesome/icons/).
 + Use `strong` and `em`.
 
 __Choose carefully__:
