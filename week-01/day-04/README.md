@@ -540,6 +540,7 @@ h1 {
 + A to Z CSS: http://www.atozcss.com/
 + Google HTML/CSS Style Guide: https://google.github.io/styleguide/htmlcssguide.xml
 + http://tympanus.net/codrops/css_reference/
++ Block Element Modifier (BEM): http://getbem.com/
 
 #### Layout
 
@@ -550,3 +551,4 @@ h1 {
 
 + Float 1: http://jsbin.com/corogotazo/edit?html,css,output
 + Float 2: http://jsbin.com/yoboyumixo/edit?html,css,output
++ Layout 1: http://jsbin.com/molabaliyi/edit?html,css,output
