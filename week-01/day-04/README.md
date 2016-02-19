@@ -520,6 +520,7 @@ h1 {
 + Color Hex Color Codes: http://www.color-hex.com/
 + Color mixer: http://www.colorhexa.com/
 + HSL color picker: http://hslpicker.com/
++ Extract colour from image: http://labs.tineye.com/color/
 
 #### Fonts
 
