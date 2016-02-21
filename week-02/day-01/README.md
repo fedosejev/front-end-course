@@ -52,7 +52,7 @@ Learn more about containing block: http://reference.sitepoint.com/css/containing
 + Example 2: http://jsbin.com/huxavi/edit?html,output
 + Example 3: http://jsbin.com/zobecu/edit?html,css,output
 
---
+---
 
 + Learn more: http://www.sitepoint.com/web-foundations/collapsing-margins/
 
