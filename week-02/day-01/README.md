@@ -10,6 +10,8 @@
 
 > When we specify the positions or dimensions of element boxes, we’re doing so relative to what’s known as the __containing block__.
 
+> The containing block for the root element is called the __initial containing block__.
+
 Learn more about containing block: http://reference.sitepoint.com/css/containingblock
 
 ## `box-sizing`
