@@ -41,6 +41,8 @@ You can use `:hover` on other HTML elements.
 
 Examples: http://jsbin.com/mobasevoxi/edit?html,output
 
++ List of pseudo-classes: https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes
+
 ## What is Pseudo-Elements in CSS?
 
 + `::before` - [example](http://jsbin.com/vaboxor/edit?html,output).
