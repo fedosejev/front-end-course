@@ -13,3 +13,6 @@ The link should be:
 
 ## 2
 
+Refactor your [portfolio](https://github.com/fedosejev/front-end-course/blob/master/week-01/project.md#project) page from CSS to Sass.
+
+Compile and publish updated version on GitHub Pages.
