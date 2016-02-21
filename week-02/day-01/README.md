@@ -41,6 +41,15 @@ Learn more about containing block: http://reference.sitepoint.com/css/containing
     + [Example](http://jsbin.com/xerakocoqi/edit?html,css,output)
     + [Live](http://output.jsbin.com/xerakocoqi)
 
+## Collapsing margins
+
++ Example of collapse: http://jsbin.com/bazejoruko/edit?html,css,output
++ Example of no collapse: http://jsbin.com/cirigok/edit?html,css,output
+
+--
+
++ Learn more: http://www.sitepoint.com/web-foundations/collapsing-margins/
+
 ## What is Pseudo-Classes in CSS?
 
 > Sometimes you need to select parts of a web page that don’t have tags per se, but are nonetheless easy to identify.
