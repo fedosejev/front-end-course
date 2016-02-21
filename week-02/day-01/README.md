@@ -176,8 +176,6 @@ HTML, CSS, and JS framework from Twitter.
 
 + [Bootstrap](http://getbootstrap.com)
 
-![](http://media.giphy.com/media/6Mk0XgclpKixW/giphy.gif)
-
 ## Learn more
 
 + [The Relationship Between `display`, `position`, and `float`](http://reference.sitepoint.com/css/displaypositionfloat)

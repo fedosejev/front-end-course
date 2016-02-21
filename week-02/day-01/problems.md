@@ -16,3 +16,5 @@ The link should be:
 Refactor your [portfolio](https://github.com/fedosejev/front-end-course/blob/master/week-01/project.md#project) page from CSS to Sass.
 
 Compile and publish updated version on GitHub Pages.
+
+![](http://media.giphy.com/media/6Mk0XgclpKixW/giphy.gif)
