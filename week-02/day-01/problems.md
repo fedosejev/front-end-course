@@ -8,4 +8,5 @@ The link should be:
 + `green` when you haven't visited it yet.
 + `red` when you have already visited it.
 + `blue` when you mouse over it.
-+ 
++ `purple` when you click on it.
++ Change `font-weight` to `bold` when you focus on it.
