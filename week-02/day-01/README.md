@@ -41,7 +41,7 @@ You can use `:hover` on other HTML elements.
 
 Examples: http://jsbin.com/mobasevoxi/edit?html,output
 
-### What is Pseudo-Elements in CSS?
+## What is Pseudo-Elements in CSS?
 
 + `:before` - [example](http://jsbin.com/lixeso/edit?html,output).
 + `:first-letter` - [example](http://jsbin.com/qiwohe/edit?html,output).
