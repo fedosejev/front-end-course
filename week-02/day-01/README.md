@@ -12,6 +12,9 @@
 
 > The containing block for the root element is called the __initial containing block__.
 
+> The containing block for any other element box is determined by the value of the `position` property for that element.
+
+
 Learn more about containing block: http://reference.sitepoint.com/css/containingblock
 
 ## `box-sizing`
