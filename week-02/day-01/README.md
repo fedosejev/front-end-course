@@ -56,6 +56,14 @@ Learn more about containing block: http://reference.sitepoint.com/css/containing
 
 + Learn more: http://www.sitepoint.com/web-foundations/collapsing-margins/
 
+## What is Stacking Context in CSS?
+
++ Example: http://jsbin.com/ziweki/edit?html,output
+
+---
+
++ Learn more: http://reference.sitepoint.com/css/stacking
+
 ## What is Pseudo-Classes in CSS?
 
 > Sometimes you need to select parts of a web page that don’t have tags per se, but are nonetheless easy to identify.
