@@ -126,7 +126,7 @@ Examples: http://jsbin.com/mobasevoxi/edit?html,output
 
 + http://sass-lang.com/
 
-#### How to install Sass?
+### How to install Sass?
 
 + Mac: `sudo gem install sass`
 + Windows: you will need to install Ruby first.
@@ -139,11 +139,11 @@ Check what version of Sass you have installed:
 
 It should return `Sass 3.4.19 (Selective Steve)`.
 
-#### What Sass is good for?
+### What Sass is good for?
 
 + [Sass guide](http://sass-lang.com/guide)
 
-#### How to compile Sass?
+### How to compile Sass?
 
 `sass --update sass:css`
 
@@ -154,15 +154,15 @@ project/sass/styles.scss
 project/css/
 ```
 
-#### How to watch for changes?
+### How to watch for changes?
 
 `sass --watch sass:css`
 
-### What is Bourbon?
+## What is Bourbon?
 
 Mixin library for Sass: http://bourbon.io/
 
-#### How to install Bourbon?
+### How to install Bourbon?
 
 1. `sudo gem install bourbon`
 2. Navigate into `sass` folder in your project and run: `bourbon install`
@@ -170,42 +170,21 @@ Mixin library for Sass: http://bourbon.io/
 
 [Learn more about Bourbon](http://bourbon.io/)
 
-### What is Bootstrap?
+## What is Bootstrap?
+
+HTML, CSS, and JS framework from Twitter.
 
 + [Bootstrap](http://getbootstrap.com)
 
-## Problems
-
-1. Refactor all CSS code to Sass code in your [Week 1 project](https://github.com/frontendeducation/full-time/tree/master/week-01/day-04#project).
-2. Create 2 new pages for your [Week 1 project](https://github.com/frontendeducation/full-time/tree/master/week-01/day-04#project):
-  1. `add-comment.html` - a form that allows to comment. It should have the following fields:
-    + Name
-    + E-mail address
-    + A drop-down list of articles
-    + Comment box
-    + `Comment` button
-  2. `add-article.html` - a form that allows to add a new article. Is should have the following fields:
-    + Article title
-    + Article text
-    + Article image
-    + Article publish date
-    + `Create` button
-
-Add both links at the very bottom of your original page.
-
 ![](http://media.giphy.com/media/6Mk0XgclpKixW/giphy.gif)
 
-## References
+## Learn more
 
-1. [SASS variable names](http://thesassway.com/beginner/variable-naming)
-2. [Selectoracle](http://gallery.theopalgroup.com/selectoracle/)
-3. [Bourbon](http://bourbon.io/)
++ [The Relationship Between `display`, `position`, and `float`](http://reference.sitepoint.com/css/displaypositionfloat)
++ [SASS variable names](http://thesassway.com/beginner/variable-naming)
++ [Selectoracle](http://gallery.theopalgroup.com/selectoracle/)
++ [Bourbon](http://bourbon.io/)
 
 ## Wisdom of the day
 
 + [Byron Wien’s Life Lessons: Formative experiences shape risk tolerance](http://wallstreetweek.tumblr.com/post/123488820692/byron-wiens-life-lessons-formative-experiences)
-
-## Learn more
-
-+ The Relationship Between `display`, `position`, and `float`: http://reference.sitepoint.com/css/displaypositionfloat
-
