@@ -4,7 +4,11 @@
 
 ## How to hide an element?
 
+> The display CSS property specifies the type of rendering box used for an element.
+
 `display: none;`
+
+Learn more about `display` property: https://developer.mozilla.org/en-US/docs/Web/CSS/display
 
 ## What is containing block?
 
@@ -14,6 +18,14 @@
 
 > The containing block for any other element box is determined by the value of the `position` property for that element.
 
+> If the value of the position property is `static` (the default) or `relative`, the containing block is formed by the edge of the content box of the nearest ancestor element whose `display` property value is one of:
+
+block
+inline-block
+list-item
+run-in (only in a block formatting context; see Formatting Concepts)
+table
+table-cell
 
 Learn more about containing block: http://reference.sitepoint.com/css/containingblock
 
