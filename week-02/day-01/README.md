@@ -37,7 +37,7 @@ You can use `:hover` on other HTML elements.
 
 + `:focus`
 
-Examples: http://jsbin.com/tumoku/edit?html,output
+Examples: http://jsbin.com/mobasevoxi/edit?html,output
 
 ### What is Pseudo-Elements in CSS?
 
