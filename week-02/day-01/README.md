@@ -15,7 +15,7 @@
 
 > Sometimes you need to select parts of a web page that don’t have tags per se, but are nonetheless easy to identify.
 
-#### Styles for links
+### Styles states
 
 ##### a:link
 
@@ -35,7 +35,9 @@ You can use `:hover` on other HTML elements.
 
 > `a:active` lets you determine how a link looks as your visitor clicks. In other words, it covers the brief nanosecond when someone's pressing the mouse button, before releasing it.
 
-+ `:focus`
+##### a:focus
+
+> `:focus` applied when an element has received focus.
 
 Examples: http://jsbin.com/mobasevoxi/edit?html,output
 
