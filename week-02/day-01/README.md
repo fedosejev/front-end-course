@@ -183,6 +183,10 @@ HTML, CSS, and JS framework from Twitter.
 + [Selectoracle](http://gallery.theopalgroup.com/selectoracle/)
 + [Bourbon](http://bourbon.io/)
 
+## Problems
+
+[2 problems](problems.md)
+
 ## Wisdom of the day
 
 + [Byron Wien’s Life Lessons: Formative experiences shape risk tolerance](http://wallstreetweek.tumblr.com/post/123488820692/byron-wiens-life-lessons-formative-experiences)
