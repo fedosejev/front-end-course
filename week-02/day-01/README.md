@@ -26,6 +26,8 @@ Learn more about `display` property: https://developer.mozilla.org/en-US/docs/We
 + `inline-block`
 + Other values
 
+> If the value of the position property is `absolute`, the containing block is the nearest positioned ancestor—in other words, the nearest ancestor whose position property has one of the values `absolute`, `fixed`, or `relative`. The containing block is formed by the padding edge of that ancestor.
+
 Learn more about containing block: http://reference.sitepoint.com/css/containingblock
 
 ## `box-sizing`
