@@ -11,6 +11,7 @@ __Layout:__
 + Row with 2 columns
 + Row with 3 columns
 + Footer
++ Use `position` and `float`
 
 __Structure:__
 + Lists
