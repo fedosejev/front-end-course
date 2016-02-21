@@ -124,6 +124,8 @@ Examples: http://jsbin.com/mobasevoxi/edit?html,output
 
 > Sass is a scripting language that is interpreted into Cascading Style Sheets (CSS).
 
++ http://sass-lang.com/
+
 #### How to install Sass?
 
 + Mac: `sudo gem install sass`
