@@ -6,6 +6,10 @@
 
 `display: none;`
 
+## What is containing block?
+
+> When we specify the positions or dimensions of element boxes, we’re doing so relative to what’s known as the __containing block__.
+
 ## `box-sizing`
 
 1. `content-box` - This is the initial and default value as specified by the CSS standard.
