@@ -43,8 +43,14 @@ Learn more about containing block: http://reference.sitepoint.com/css/containing
 
 ## Collapsing margins
 
-+ Example of collapse: http://jsbin.com/bazejoruko/edit?html,css,output
-+ Example of no collapse: http://jsbin.com/cirigok/edit?html,css,output
+#### Collapse
+
++ Example 1: http://jsbin.com/bazejoruko/edit?html,css,output
+
+#### No collapse
+
++ Example 2: http://jsbin.com/huxavi/edit?html,output
++ Example 3: http://jsbin.com/zobecu/edit?html,css,output
 
 --
 
