@@ -24,6 +24,7 @@ Learn more about `display` property: https://developer.mozilla.org/en-US/docs/We
 
 + `block`
 + `inline-block`
++ Other values
 
 Learn more about containing block: http://reference.sitepoint.com/css/containingblock
 
