@@ -5,6 +5,7 @@
 + [Install](install.md#install)
 + [Materials](#materials)
  + [Week 1](#week-1)
+ + [Week 2](#week-2)
 + [Q/A](#qa)
 + [Your instructor](#your-instructor)
 
