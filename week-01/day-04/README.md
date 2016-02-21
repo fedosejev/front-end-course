@@ -540,6 +540,7 @@ h1 {
 + Google HTML/CSS Style Guide: https://google.github.io/styleguide/htmlcssguide.xml
 + CSS reference: http://tympanus.net/codrops/css_reference/
 + Block Element Modifier (BEM): http://getbem.com/
++ Collapsing Margins: http://www.sitepoint.com/web-foundations/collapsing-margins/
 
 #### Layout
 
