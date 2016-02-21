@@ -2,6 +2,10 @@
 
 ![](http://tclhost.com/clya4nh.gif)
 
+## How to hide an element?
+
+`display: none;`
+
 ## `box-sizing`
 
 1. `content-box` - This is the initial and default value as specified by the CSS standard.
@@ -55,3 +59,5 @@ Examples: http://jsbin.com/mobasevoxi/edit?html,output
 
 + List of pseudo-elements: https://developer.mozilla.org/en/docs/Web/CSS/Pseudo-elements
 + List of pseudo-classes and pseudo-elements: http://tympanus.net/codrops/css_reference/
+
+
