@@ -64,6 +64,15 @@ Learn more about containing block: http://reference.sitepoint.com/css/containing
 
 + Learn more: http://reference.sitepoint.com/css/stacking
 
+## Floating and clearing
+
++ Example of floating: http://jsbin.com/corogotazo/edit?html,css,output
++ Example of clearing: http://jsbin.com/miboma/edit?html,css,output
+
+---
+
++ Learn more: http://www.sitepoint.com/web-foundations/floating-clearing-css/
+
 ## What is Pseudo-Classes in CSS?
 
 > Sometimes you need to select parts of a web page that don’t have tags per se, but are nonetheless easy to identify.
