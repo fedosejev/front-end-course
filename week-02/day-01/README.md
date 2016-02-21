@@ -47,5 +47,7 @@ Examples: http://jsbin.com/mobasevoxi/edit?html,output
 + `::first-letter` - [example](http://jsbin.com/yelumu/edit?html,output).
 + `::first-line` - [example](http://jsbin.com/puwafu/edit?html,output).
 
+---
+
 1. List of pseudo-elements: https://developer.mozilla.org/en/docs/Web/CSS/Pseudo-elements
 2. List of pseudo-classes and pseudo-elements: http://tympanus.net/codrops/css_reference/
