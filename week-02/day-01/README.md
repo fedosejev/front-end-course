@@ -2,13 +2,15 @@
 
 ![](http://tclhost.com/clya4nh.gif)
 
-## How to hide an element?
+## What is `display` in CSS?
 
 > The display CSS property specifies the type of rendering box used for an element.
 
-`display: none;`
-
 Learn more about `display` property: https://developer.mozilla.org/en-US/docs/Web/CSS/display
+
+## How to hide an element?
+
+`display: none;`
 
 ## What is containing block?
 
