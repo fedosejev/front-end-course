@@ -69,6 +69,8 @@ You can use `:hover` on other HTML elements.
 
 > `:focus` applied when an element has received focus.
 
+You can use `:focus` on other HTML elements.
+
 Examples: http://jsbin.com/mobasevoxi/edit?html,output
 
 ---
