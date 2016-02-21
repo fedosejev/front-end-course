@@ -185,7 +185,7 @@ HTML, CSS, and JS framework from Twitter.
 
 ## Problems
 
-[2 problems](problems.md)
+[2 problems](problems.md#problems)
 
 ## Wisdom of the day
 
