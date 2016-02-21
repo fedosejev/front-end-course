@@ -22,8 +22,8 @@ Learn more about `display` property: https://developer.mozilla.org/en-US/docs/We
 
 > If the value of the position property is `static` (the default) or `relative`, the containing block is formed by the edge of the content box of the nearest ancestor element whose `display` property value is one of:
 
-+ `block`
-+ `inline-block`
+    + `block`
+    + `inline-block`
 
 Learn more about containing block: http://reference.sitepoint.com/css/containingblock
 
