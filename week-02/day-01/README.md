@@ -46,3 +46,5 @@ Examples: http://jsbin.com/mobasevoxi/edit?html,output
 + `:before` - [example](http://jsbin.com/lixeso/edit?html,output).
 + `:first-letter` - [example](http://jsbin.com/qiwohe/edit?html,output).
 + `:first-line` - [example](http://jsbin.com/qogagu/edit?html,output).
+
+List of pseudo-classes and pseudo-elements: http://tympanus.net/codrops/css_reference/
