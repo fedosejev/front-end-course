@@ -178,6 +178,7 @@ HTML, CSS, and JS framework from Twitter.
 
 ## Learn more
 
++ [Learn CSS layout](http://learnlayout.com/)
 + [The Relationship Between `display`, `position`, and `float`](http://reference.sitepoint.com/css/displaypositionfloat)
 + [SASS variable names](http://thesassway.com/beginner/variable-naming)
 + [Selectoracle](http://gallery.theopalgroup.com/selectoracle/)
