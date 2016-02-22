@@ -18,3 +18,7 @@ Refactor your [portfolio](https://github.com/fedosejev/front-end-course/blob/mas
 Compile and publish updated version on GitHub Pages.
 
 ![](http://media.giphy.com/media/6Mk0XgclpKixW/giphy.gif)
+
+#3
+
+Create a layout with 3 columns where each columns is of equal size. Each column has a text content.
