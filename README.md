@@ -21,7 +21,7 @@
 
 ### Week 2
 
-
+- [x] [Day 1](week-02/day-01/README.md) - Better understanding CSS and how to use Sass.
 
 ## [Q/A](questions-and-answers.md)
 
