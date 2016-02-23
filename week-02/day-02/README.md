@@ -43,4 +43,17 @@ Which CSS properties establish new block formatting contexts:
 
 > Media queries add no specificity to the selectors they contain, but source order still matters.
 
+## What is Flexbox?
+
+> The Flexbox Layout officially called CSS Flexible Box Layout Module is new layout module in CSS3 made to improve the items align, directions and order in the container even when they are with dynamic or even unknown size. The prime characteristic of the flex container is the ability to modify the width or height of its children to fill the available space in the best possible way on different screen sizes.
+
++ [A Visual Guide to CSS3 Flexbox Properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
++ [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+#### Examples
+
++ [Example 1](http://jsbin.com/fuduwu/edit?html,output)
++ [Example 2](http://jsbin.com/sedowe/edit?html,output)
+
+
 
