@@ -67,3 +67,7 @@ HTML, CSS, and JS framework from Twitter.
 
 + [Bootstrap](http://getbootstrap.com)
 
+## Problems
+
+[3 problems for today](problems.md)
+
