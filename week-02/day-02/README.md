@@ -18,7 +18,6 @@ Which CSS properties establish new block formatting contexts:
 ---
 
 + Learn more: http://www.sitepoint.com/understanding-block-formatting-contexts-in-css/
-
 + W3 documentation: https://www.w3.org/TR/CSS2/visuren.html#block-formatting
 
 ## Zero-height container problem for floated elements
