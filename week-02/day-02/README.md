@@ -29,4 +29,9 @@ Which CSS properties establish new block formatting contexts:
 
 + Learn more: http://learnlayout.com/clearfix.html
 
+## Responsive layouts
+
+---
+
++ Learn more: https://developers.google.com/web/fundamentals/design-and-ui/responsive/?hl=en
 
