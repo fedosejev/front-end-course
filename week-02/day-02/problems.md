@@ -82,7 +82,7 @@ img {
 }
 ```
 
-Make sure the text doesn't overflow underneath the image.
+Make sure the text doesn't flow under the image, i.e. the image should have whitespace underneath it.
 
 ## 3.
 
