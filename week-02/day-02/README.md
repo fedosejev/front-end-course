@@ -9,3 +9,12 @@
 
 + Learn more: http://learnlayout.com/clearfix.html
 
+## Understanding Block Formatting Contexts
+
++ Margin collapse: http://jsbin.com/luxune/edit?html,css,output
++ No margin collapse because of block formatting context: http://jsbin.com/roqaku/edit?html,css,output
+
+---
+
++ Learn more: http://www.sitepoint.com/understanding-block-formatting-contexts-in-css/
+
