@@ -61,12 +61,6 @@ To ensure proper rendering and touch zooming, add the viewport meta tag to your 
 + [Example 1](http://jsbin.com/fuduwu/edit?html,output)
 + [Example 2](http://jsbin.com/sedowe/edit?html,output)
 
-## What is Bootstrap?
-
-HTML, CSS, and JS framework from Twitter.
-
-+ [Bootstrap](http://getbootstrap.com)
-
 ## Problems
 
 [4 problems for today](problems.md)
