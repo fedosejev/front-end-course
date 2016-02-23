@@ -31,6 +31,12 @@ Which CSS properties establish new block formatting contexts:
 
 ## Responsive layouts
 
+To ensure proper rendering and touch zooming, add the viewport meta tag to your `<head>`.
+
+```html
+<meta name="viewport" content="width=device-width, initial-scale=1">
+```
+
 + Learn more: https://developers.google.com/web/fundamentals/design-and-ui/responsive/?hl=en
 
 ## What are media queries?
