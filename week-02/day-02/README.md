@@ -31,8 +31,6 @@ Which CSS properties establish new block formatting contexts:
 
 ## Responsive layouts
 
----
-
 + Learn more: https://developers.google.com/web/fundamentals/design-and-ui/responsive/?hl=en
 
 ## What are media queries?
