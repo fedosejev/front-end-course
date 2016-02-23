@@ -170,12 +170,6 @@ Mixin library for Sass: http://bourbon.io/
 
 [Learn more about Bourbon](http://bourbon.io/)
 
-## What is Bootstrap?
-
-HTML, CSS, and JS framework from Twitter.
-
-+ [Bootstrap](http://getbootstrap.com)
-
 ## Learn more
 
 + [Learn CSS layout](http://learnlayout.com/)
