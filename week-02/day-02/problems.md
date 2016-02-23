@@ -49,7 +49,7 @@ p {
 
 Make sure all three paragraphs have margins that __do not collapse__.
 
-## 1.
+## 2.
 
 Refactor your portfolio to become responsive. Consider the following breakpoints:
 
