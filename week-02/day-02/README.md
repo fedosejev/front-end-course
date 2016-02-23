@@ -35,3 +35,14 @@ Which CSS properties establish new block formatting contexts:
 
 + Learn more: https://developers.google.com/web/fundamentals/design-and-ui/responsive/?hl=en
 
+## What are media queries?
+
++ [Logic in Media Queries](https://css-tricks.com/logic-in-media-queries/)
+
+#### Examples
+
++ [Example 1](http://jsbin.com/nugeba/6/edit?html)
+
+> Media queries add no specificity to the selectors they contain, but source order still matters.
+
+
