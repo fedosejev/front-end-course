@@ -96,3 +96,7 @@ Refactor your portfolio to become responsive. Consider the following breakpoints
 ## 4.
 
 Use Flexbox for your multicolumn layouts in your portfolio.
+
+# 5.
+
+Can I nest `div` element inside of `p` and why?
