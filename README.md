@@ -23,6 +23,7 @@
 
 - [x] [Day 1](week-02/day-01/README.md) - Better understanding CSS and how to use Sass.
 - [x] [Day 2](week-02/day-02/README.md) - Understanding block formatting context, responsive layouts, Flexbox.
+- [x] [Day 3](week-02/day-03/README.md) - Introducing JavaScript.
 
 
 ## [Q/A](questions-and-answers.md)
