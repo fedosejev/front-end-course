@@ -135,3 +135,4 @@ var array = [1, 2, 3];
 ## Examples
 
 + http://jsbin.com/hiqube/edit?js,console
++ http://jsbin.com/luyugecazo/edit?js,console
