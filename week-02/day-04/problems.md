@@ -1,9 +1,9 @@
 # Problems
 
 
-## 0.1:
+## 0.1.
 
-Write a function 'mergeArrays' that takes two arrays as parameters and returns a new array that is made of two arrays merged together.
+Write a function `mergeArrays` that takes two arrays as parameters and returns a new array that is made of two arrays merged together.
 
 Example:
 
@@ -11,11 +11,11 @@ Example:
 mergeArrays([1, 2, 3], [4, 5, 6]); // returns [1, 2, 3, 4, 5, 6]
 ```
 
-## 0.2:
+## 0.2.
 
-Write a function 'updateObjects' that takes an array of objects where each object has a 'message' key and a string value.
+Write a function `updateObjects` that takes an array of objects where each object has a `message` key and a string value.
 
-For each object 'updateObjects' must add another key 'getMessage' with a value of a function that returns the message in that object.
+For each object `updateObjects` must add another key `getMessage` with a value of a function that returns the message in that object.
 
 Example:
 
