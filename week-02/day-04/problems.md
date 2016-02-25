@@ -1,5 +1,9 @@
 # Problems
 
+## 0.
+
+http://jsbin.com/kajuyil/edit?js,console
+
 ## 1.
 
 How many lexical scopes you can see here:
