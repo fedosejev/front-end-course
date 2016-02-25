@@ -131,3 +131,7 @@ var array = [1, 2, 3];
 
 1. [You Don't Know JS: Scope & Closures: Chapter 1: What is Scope?](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch1.md)
 2. [Immediately-Invoked Function Expression (IIFE)](http://benalman.com/news/2010/11/immediately-invoked-function-expression/)
+
+## Examples
+
++ http://jsbin.com/hiqube/edit?js,console
