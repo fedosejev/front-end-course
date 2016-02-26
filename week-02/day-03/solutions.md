@@ -12,10 +12,14 @@ Write a function named 'printOddAndEvenNumbers' that runs a for loop 10 times an
     <li>3.3 Create update.</li>
   </ul>
   <li>4. For all odd numbers prints: 'Odd number'.</li>
-    <li>4.1 Check if number is odd.</li>
-      <li>4.1.1 Create if statement.</li>
-      <li>4.1.2 Create condition.</li>
-    <li>4.2 Print 'Odd number'.</li>
+    <ul>
+      <li>4.1 Check if number is odd.</li>
+        <ul>
+          <li>4.1.1 Create if statement.</li>
+          <li>4.1.2 Create condition.</li>
+        </ul>
+      <li>4.2 Print 'Odd number'.</li>
+    </ul>
   <li>5. For all even numbers prints: 'Even number'.</li>
 </ul>
 
