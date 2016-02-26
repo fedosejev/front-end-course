@@ -5,14 +5,14 @@ Write a function named 'printOddAndEvenNumbers' that runs a for loop 10 times an
 1. Write a function named 'printOddAndEvenNumbers'.
 2. Create a for loop.
 3. Runs 10 times.
-  3.1. Create iterator.
-  3.2. Create condition.
-  3.3. Create update.
+  3.1 Create iterator.
+  3.2 Create condition.
+  3.3 Create update.
 4. For all odd numbers prints: 'Odd number'.
-  4.1. Check if number is odd.
-    4.1.1. Create if statement.
-    4.1.2. Create condition.
-  4.2. Print 'Odd number'.
+  4.1 Check if number is odd.
+    4.1.1 Create if statement.
+    4.1.2 Create condition.
+  4.2 Print 'Odd number'.
 5. For all even numbers prints: 'Even number'.
 
 ```js
