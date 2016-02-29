@@ -25,6 +25,11 @@
 - [x] [Day 2](week-02/day-02/README.md) - Understanding block formatting context, responsive layouts, Flexbox.
 - [x] [Day 3](week-02/day-03/README.md) - Introducing JavaScript.
 - [x] [Day 4](week-02/day-04/README.md) - Understanding Lexical Scope, Functions and Arrays.
+- [x] [Project](week-02/project.md#project)
+
+### Week 3
+
+- [x] [Day 1](week-03/day-01/README.md) - Understanding Closure.
 
 ## [Q/A](questions-and-answers.md)
 
