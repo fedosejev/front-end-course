@@ -6,6 +6,7 @@
 + [Materials](#materials)
  + [Week 1](#week-1)
  + [Week 2](#week-2)
+ + [Week 3](#week-3)
 + [Q/A](#qa)
 + [Your instructor](#your-instructor)
 
