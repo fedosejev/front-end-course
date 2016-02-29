@@ -10,6 +10,8 @@ Example:
 mergeArrays([1, 2, 3], [4, 5, 6]); // returns [1, 2, 3, 4, 5, 6]
 ```
 
++ [Solution](solutions.md)
+
 ## 0.2.
 
 Write a function `updateObjects` that takes an array of objects where each object has a `message` key and a string value.
