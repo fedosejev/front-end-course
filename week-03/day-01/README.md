@@ -173,7 +173,7 @@ console.log(myTesla.price());
 
 ## Problems
 
-[9 Problems](problems.md)
+[9 Problems](problems.md#problems)
 
 ## Learn more
 
