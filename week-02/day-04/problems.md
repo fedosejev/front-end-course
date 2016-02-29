@@ -1,6 +1,5 @@
 # Problems
 
-
 ## 0.1.
 
 Write a function `mergeArrays` that takes two arrays as parameters and returns a new array that is made of two arrays merged together.
