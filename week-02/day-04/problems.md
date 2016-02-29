@@ -10,7 +10,7 @@ Example:
 mergeArrays([1, 2, 3], [4, 5, 6]); // returns [1, 2, 3, 4, 5, 6]
 ```
 
-+ [Solution](solutions.md)
++ [Solution](solutions.md#01)
 
 ## 0.2.
 
