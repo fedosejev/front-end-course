@@ -8,6 +8,7 @@
 
 # 2
 
++ Every function returns `undefined` by default: http://jsbin.com/vetuku/edit?js,console
 + `Good morning`: http://jsbin.com/qocumuv/edit?js,console
 + Getting `Yes`: http://jsbin.com/vowifu/edit?js,console
 + Function `a` calling function `b` calling function `c`: http://jsbin.com/wunuga/edit?js,console
