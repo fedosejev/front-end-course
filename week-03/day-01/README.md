@@ -13,7 +13,7 @@ Plus:
 
 + [Problems](#problems)
 + [Learn more](#learn-more)
-+ [Common JavaScript Errors](errors.md)
++ [Common JavaScript errors](errors.md)
 
 ## Questions
 
