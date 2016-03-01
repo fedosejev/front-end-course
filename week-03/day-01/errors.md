@@ -1,4 +1,4 @@
-# Solutions
+# JavaScript errors
 
 ## Examples of JavaScript errors
 
