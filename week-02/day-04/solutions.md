@@ -8,4 +8,5 @@
 
 # 2
 
++ Getting `Yes`: http://jsbin.com/vowifu/edit?js,console
 + Function `a` calling function `b` calling function `c`: http://jsbin.com/wunuga/edit?js,console
