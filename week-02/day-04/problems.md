@@ -126,6 +126,8 @@ sortArray([2, 12, 7]); // returns: `[2, 7, 12]`
 sortArray([1, 34, -27]); // returns: `[-27, 1, 34]`
 ```
 
+### [Solutions](solutions.md)
+
 ## By the way
 
 ![](http://www.explainxkcd.com/wiki/images/e/e6/minifigs.png)
