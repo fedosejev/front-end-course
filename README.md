@@ -31,6 +31,7 @@
 ### Week 3
 
 - [x] [Day 1](week-03/day-01/README.md) - Understanding Closure.
+- [x] [Day 2](week-03/day-02/README.md) - Understanding DOM.
 
 ## [Q/A](questions-and-answers.md)
 
