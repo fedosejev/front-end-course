@@ -46,12 +46,7 @@ With this using JavaScript:
   <p>In addition the weather is sunny today.</p>
 </div>
 ```
-
 ## 4.
-
-Build the content of `<body></body>` tag with JavaScript only: http://jsbin.com/tomita/edit?html,output
-
-## 5.
 
 Write a function `greeting` that takes a greeting message as a parameter and returns a new function that takes a name as a parameter and prints the greeting message with the name.
 
@@ -66,3 +61,7 @@ var name = 'Art';
 console.log(dayGreeting(name)); // 'Good morning, Art!'
 console.log(nightGreeting(name)); // 'Good evening, Art!'
 ```
+
+## 5.
+
+Build the content of `<body></body>` tag with JavaScript only: http://jsbin.com/tomita/edit?html,output
