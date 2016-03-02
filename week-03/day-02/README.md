@@ -1,5 +1,7 @@
 # Day 2
 
++ [Daily warm up](warm-up.md)
+
 Questions:
 
 1. [What is The Document Object Model (DOM)?](#what-is-the-document-object-model-dom)
