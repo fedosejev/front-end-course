@@ -79,3 +79,22 @@ var result = reverse('Hello');
 
 console.log(result); // olleH
 ```
+
+## 7.
+
+Write a function `isAnagram` which takes in two words as its arguments and returns `true` or `false`. If any of the arguments are missing then `isAnagram` should return `null`.
+
+How to test:
+
+```js
+var result;
+
+result = isAnagram('hello', 'olleh');
+console.log(result); // true
+
+result = isAnagram('welcome', 'back');
+console.log(result); // false
+
+result = isAnagram('london`);
+console.log(result); // null
+```
