@@ -84,7 +84,7 @@ console.log(result); // olleH
 
 Write a function `isAnagram` which takes in two words as its arguments and returns `true` or `false`. If any of the arguments are missing then `isAnagram` should return `null`.
 
-+ Don't use any built-in functions, such as `reverse`;
++ Don't use any built-in functions, such as `reverse`.
 
 How to test:
 
