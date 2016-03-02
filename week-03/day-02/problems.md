@@ -97,6 +97,6 @@ console.log(result); // true
 result = isAnagram('welcome', 'back');
 console.log(result); // false
 
-result = isAnagram('london`);
+result = isAnagram('london');
 console.log(result); // null
 ```
