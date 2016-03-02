@@ -194,6 +194,42 @@ var a = 100;
 
 `undefined` will be printed out - this is a statement completion value.
 
+### What is `if` statement?
+
+```js
+if (condition) {
+  // true
+}
+```
+
+```js
+if (condition) {
+  // true
+} else {
+  // false
+}
+```
+
+```js
+if (condition) {
+  // true
+} else if (condition) {
+  // true
+}
+```
+
+```js
+if (condition) {
+  // true
+} else if (condition) {
+  // true
+} else {
+  // both are false
+}
+```
+
++ Learn more: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else
+
 ### What is `for` loop?
 
 Use `for` loop when you need to run code a specific number of times.
