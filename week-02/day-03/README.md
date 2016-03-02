@@ -197,34 +197,34 @@ var a = 100;
 ### What is `if` statement?
 
 ```js
-if (condition) {
-  // true
+if (condition) { // true
+  // code block
 }
 ```
 
 ```js
-if (condition) {
-  // true
-} else {
-  // false
+if (condition) { // true
+  // code block
+} else { // false
+  // code block
 }
 ```
 
 ```js
-if (condition) {
-  // true
-} else if (condition) {
-  // true
+if (condition) { // true
+  // code block
+} else if (condition) { // true
+  // code block
 }
 ```
 
 ```js
-if (condition) {
-  // true
-} else if (condition) {
-  // true
-} else {
-  // both are false
+if (condition) { // true
+  // code block
+} else if (condition) {  // true
+  // code block
+} else { // both are false
+  // code block
 }
 ```
 
