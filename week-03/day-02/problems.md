@@ -61,12 +61,7 @@ var name = 'Art';
 console.log(dayGreeting(name)); // 'Good morning, Art!'
 console.log(nightGreeting(name)); // 'Good evening, Art!'
 ```
-
 ## 5.
-
-Build the content of `<body></body>` tag with JavaScript only: http://jsbin.com/tomita/edit?html,outputx
-
-## 6.
 
 Write a function that takes a string as a parameter and returns a reversed version of that string.
 
@@ -80,7 +75,7 @@ var result = reverse('Hello');
 console.log(result); // olleH
 ```
 
-## 7.
+## 6.
 
 Write a function `isAnagram` which takes in two words as its arguments and returns `true` or `false`. If any of the arguments are missing then `isAnagram` should return `null`.
 
@@ -100,3 +95,7 @@ console.log(result); // false
 result = isAnagram('london');
 console.log(result); // null
 ```
+
+## 7.
+
+Build the content of `<body></body>` tag with JavaScript only: http://jsbin.com/tomita/edit?html,outputx
