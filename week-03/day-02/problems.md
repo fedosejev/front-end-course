@@ -71,3 +71,11 @@ Build the content of `<body></body>` tag with JavaScript only: http://jsbin.com/
 Write a function that takes a string as a parameter and returns a reversed version of that string.
 
 Don't use `.reverse()` method.
+
+How to test:
+
+```js
+var result = reverse('Hello');
+
+console.log(result); // olleH
+```
