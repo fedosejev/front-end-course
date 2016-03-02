@@ -64,4 +64,10 @@ console.log(nightGreeting(name)); // 'Good evening, Art!'
 
 ## 5.
 
-Build the content of `<body></body>` tag with JavaScript only: http://jsbin.com/tomita/edit?html,output
+Build the content of `<body></body>` tag with JavaScript only: http://jsbin.com/tomita/edit?html,outputx
+
+## 6.
+
+Write a function that takes a string as a parameter and returns a reversed version of that string.
+
+Don't use `.reverse()` method.
