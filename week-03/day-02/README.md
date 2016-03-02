@@ -231,7 +231,7 @@ footerElement.innerHTML = message;
 
 ## Problems
 
-+ [5 problems](problems.md)
++ [7 problems](problems.md)
 
 ## Learn more
 
