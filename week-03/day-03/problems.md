@@ -74,5 +74,3 @@ var images = [
 ## 7.
 
 Make sure you can explain what the Bubble Sort is and how it works.
-
-![](http://cdn3.whatculture.com/wp-content/uploads/2014/02/ace-ventura-pet-detective-jim-carrey-chewing-gum.gif)
