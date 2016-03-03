@@ -73,4 +73,8 @@ var images = [
 
 ## 7.
 
+Write a function that takes a string as a parameter and returns an object where keys are characters and values are their frequencies.
+
+## 8.
+
 Make sure you can explain what the Bubble Sort is and how it works.
