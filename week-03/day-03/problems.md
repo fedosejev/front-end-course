@@ -8,6 +8,8 @@ Draw a DOM tree for this HTML markup:
 <li id="message">Welcome to <strong>The Iron Yard</strong> class!</li>
 ```
 
+Use [draw.io](http://draw.io).
+
 ## 2.
 
 Access the text node and log it's value:
