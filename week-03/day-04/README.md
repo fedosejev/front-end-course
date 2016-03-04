@@ -1,5 +1,7 @@
 # Day 4
 
++ [Warm up problem](http://jsbin.com/zoboje/edit?js,output)
+
 ![](https://i.imgur.com/c1HtJvR.gif)
 
 Questions:
