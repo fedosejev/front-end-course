@@ -14,6 +14,8 @@ Please call the anonymous function.
 
 ## 2.
 
+Given this object:
+
 ```js
 var object = {
   list: [[[[[[[{
@@ -21,3 +23,5 @@ var object = {
   }]]]]]]]
 };
 ```
+
+Please print the message.
