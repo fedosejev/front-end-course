@@ -1,5 +1,7 @@
 # Day 4
 
++ [Wisdom](../wisdom.md)
+
 ### Warm up
 
 1. http://jsbin.com/zoboje/edit?js,output
