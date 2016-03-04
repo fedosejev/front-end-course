@@ -3,7 +3,7 @@
 ### Warm up
 
 1. http://jsbin.com/zoboje/edit?js,output
-2. [](warm-up.md)
+2. [More](warm-up.md)
 
 ![](https://i.imgur.com/c1HtJvR.gif)
 
