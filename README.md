@@ -33,6 +33,8 @@
 - [x] [Day 1](week-03/day-01/README.md) - Understanding Closure.
 - [x] [Day 2](week-03/day-02/README.md) - Understanding DOM.
 - [x] [Day 3](week-03/day-03/README.md) - Understanding NodeList and DocumentFragment.
+- [x] [Day 4](week-03/day-04/README.md) - Understanding events.
+- [x] [Project](week-03/project.md#project)
 
 ## [Q/A](questions-and-answers.md)
 
