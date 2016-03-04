@@ -25,3 +25,19 @@ var object = {
 ```
 
 Please print the message.
+
+## 3.
+
+```js
+function getData() {
+  return [[[[[[{
+    getExtra: function () {
+      return {
+        message: 'Hidden'
+      };
+    }
+  }]]]]]];
+}
+```
+
+Please print the message.
