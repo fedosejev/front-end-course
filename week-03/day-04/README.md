@@ -1,6 +1,9 @@
 # Day 4
 
-+ [Warm up problem](http://jsbin.com/zoboje/edit?js,output)
+### Warm up
+
+1. http://jsbin.com/zoboje/edit?js,output
+2. [](warm-up.md)
 
 ![](https://i.imgur.com/c1HtJvR.gif)
 
