@@ -32,7 +32,7 @@ The following methods will returns a NodeList:
 
 > When your script updates the page, the NodeList is updated at the same time. The methods beginning `getElementBy`... return live NodeLists. They are typically faster to generate than static NodeLists.
 
-+ [Example](http://jsbin.com/tucitubolu/edit?html,console)
++ [Example](http://jsbin.com/lovodac/edit?html,console)
 
 ### What is a static NodeList?
 
