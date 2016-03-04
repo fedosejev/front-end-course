@@ -38,7 +38,7 @@ The following methods will returns a NodeList:
 
 > When your script updates the page, the NodeList is not updated to reflect the changes made by the script. The methods beginning `querySelector`... return static NodeLists. They reflect the document when the query was made. If the script changes the content of the page, the NodeList is not updated to reflect those changes.
 
-+ [Example](http://jsbin.com/kimegirige/edit?html,console)
++ [Example](http://jsbin.com/jonusa/edit?html,console)
 
 ### What is DocumentFragment?
 
