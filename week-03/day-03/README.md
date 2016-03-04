@@ -1,10 +1,11 @@
 # Day 3
 
++ [Fix errors!](fix-errors.md)
+
 ![](https://alleyhope.files.wordpress.com/2014/05/tumblr_mnenvlkf0o1sqv3nio1_500.gif)
 
 Questions:
 
-+ [Fix errors!](fix-errors.md)
 + [What is a NodeList?](#what-is-a-nodelist)
 + [What is a live NodeList?](#what-is-a-live-nodelist)
 + [What is a static NodeList?](#what-is-a-static-nodelist)
