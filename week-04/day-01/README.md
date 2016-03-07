@@ -1,3 +1,3 @@
 # Day 1
 
-[Warm up](warm-up.md)
+:fire: [Warm up](warm-up.md)
