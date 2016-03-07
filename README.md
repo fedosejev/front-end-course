@@ -38,6 +38,10 @@
 - [x] [Day 4](week-03/day-04/README.md) - Understanding events.
 - [x] [Project](week-03/project.md#project)
 
+### Week 4
+
+- [x] [Day 1](week-04/day-01/README.md)
+
 ## [Q/A](questions-and-answers.md)
 
 - [x] [How to organise my solutions and project files?](questions-and-answers.md#how-to-organise-my-solutions-and-project-files)
