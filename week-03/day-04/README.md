@@ -1,6 +1,6 @@
 # Day 4
 
-+ [Wisdom](../wisdom.md)
+:fire: [Wisdom](../wisdom.md) :fire:
 
 ### Warm up
 

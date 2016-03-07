@@ -1,6 +1,6 @@
 # Day 2
 
-+ [Daily warm up](warm-up.md)
+:fire: [Daily warm up](warm-up.md) :fire:
 
 Questions:
 
