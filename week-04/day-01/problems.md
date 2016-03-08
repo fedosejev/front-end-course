@@ -20,6 +20,19 @@ Write a function `getTotalPrice()` that returns the total price of
 
 ## 2.
 
+Modify project from the Week 3:
+
+1. Instead of images changing every 3 seconds, make sure user can navigate images by clicking on the thumbnails.
+2. Add left arrow button that shows the previous image.
+3. Add right arrow button that shows the next image.
+
+## 3.
+
+Write a function `getTotalPrice()` that logs the total price.
+
+Given this object:
+
+```js
 var shoppingBasket = {
   products: [
     {
@@ -36,3 +49,14 @@ var shoppingBasket = {
     }
   ]
 };
+```
+
+This is how you should call `getTotalPrice()` function:
+
+```js
+var totalPrice = getTotalPrice.call(shoppingBasket);
+
+console.log(totalPrice); // "£1617"
+```
+
+It should log £1617.
