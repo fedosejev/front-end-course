@@ -209,6 +209,15 @@ Provide boolean value for `eventDirection` parameter:
 
 + [Example](http://jsbin.com/jeseba/edit?js,output)
 
+### `load` or `DOMContentLoaded`?
+
+What is the difference between `load` and `DOMContentLoaded` events?
+
++ `load` - detects a fully-loaded page.
++ `DOMContentLoaded` - The DOMContentLoaded event is fired when the initial HTML document has been completely loaded and parsed, without waiting for stylesheets, images, and subframes to finish loading.
+
++ [Example](http://jsbin.com/bapayu/edit?html,console)
+
 ## Problems
 
 + [Project](../project.md)
