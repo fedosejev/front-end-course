@@ -16,8 +16,6 @@ var result = flip({
 console.log(result); // { 1: 'a', 2: 'b', 3: 'c' }
 ```
 
-Write a function `getTotalPrice()` that returns the total price of 
-
 ## 2.
 
 Modify project from the Week 3:
