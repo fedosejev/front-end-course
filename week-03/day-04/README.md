@@ -229,3 +229,7 @@ What is the difference between `load` and `DOMContentLoaded` events?
 + [List of all events](https://developer.mozilla.org/en-US/docs/Web/Events)
 + [How JavaScript Event Delegation Works](http://davidwalsh.name/event-delegate)
 + [Load event](https://developer.mozilla.org/en/docs/Web/API/GlobalEventHandlers/onload)
+
+## Examples
+
++ [Adding multiple event listeners](http://jsbin.com/pixuvek/edit?js)
