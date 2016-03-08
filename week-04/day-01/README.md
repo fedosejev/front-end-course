@@ -188,20 +188,6 @@ console.log(art.name);
 
 [Read this](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/ch2.md#review-tldr)
 
-### How to create DOM nodes using jQuery?
-
-```js
-var ul = $('<ul class="messages"></ul>');
-```
-
-### How to attach event listener to a jQuery object?
-
-```js
-$('button').on('click', function () {
-  // Do something...
-});
-```
-
 ## Learn more
 
 + [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/ch1.md)
