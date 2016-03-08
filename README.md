@@ -40,7 +40,7 @@
 
 ### Week 4
 
-- [x] [Day 1](week-04/day-01/README.md)
+- [x] [Day 1](week-04/day-01/README.md) - Understanding `this`.
 - [x] [Day 2](week-04/day-02/README.md)
 
 ## [Q/A](questions-and-answers.md)
