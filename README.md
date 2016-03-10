@@ -32,7 +32,7 @@
 
 ### Week 3
 
-- [x] [Day 1](week-03/day-01/README.md) - Understanding Closure.
+- [x] [Day 1](week-03/day-01/README.md) - Understanding closures.
 - [x] [Day 2](week-03/day-02/README.md) - Understanding DOM.
 - [x] [Day 3](week-03/day-03/README.md) - Understanding NodeList and DocumentFragment.
 - [x] [Day 4](week-03/day-04/README.md) - Understanding events.
@@ -41,7 +41,10 @@
 ### Week 4
 
 - [x] [Day 1](week-04/day-01/README.md) - Understanding `this`.
-- [x] [Day 2](week-04/day-02/README.md)
+- [x] [Day 2](week-04/day-02/README.md) - 
+- [x] [Day 3](week-04/day-03/README.md) - Problem solving and BubbleSort algorithm.
+- [x] [Day 4](week-04/day-04/README.md) - Stack, Queue, Linked Lists, and how to publish a static website with GitHub Pages and Surge.
+
 
 ## [Q/A](questions-and-answers.md)
 
