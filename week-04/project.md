@@ -7,6 +7,8 @@ Build a web page with a monthly calendar:
  + Calendar should have full width of a viewport.
  + Calendar should be responsive.
 
+### Design mockup
+
 ![](calendar.png)
 
 ## How to get today's date?
