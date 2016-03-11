@@ -45,6 +45,7 @@
 - [x] Day 2 - Problem solving and BubbleSort algorithm.
 - [x] Day 3 - Stack, Queue, Linked Lists, and how to publish a static website with GitHub Pages and Surge.
 - [x] [Day 4](week-04/day-04/README.md) - Recursion, Hacking Your Career.
+- [x] [Project](week-04/project.md#project)
 
 ## [Q/A](questions-and-answers.md)
 
