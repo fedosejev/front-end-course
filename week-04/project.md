@@ -7,7 +7,7 @@ Build a web page with a monthly calendar:
  + Calendar should have full width of a viewport.
  + Calendar should be responsive.
 
-### Design mockup
+### Mockup
 
 ![](calendar.png)
 
