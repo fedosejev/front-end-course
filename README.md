@@ -7,6 +7,7 @@
  + [Week 1](#week-1)
  + [Week 2](#week-2)
  + [Week 3](#week-3)
+ + [Week 4](#week-4)
 + [Resources](https://github.com/fedosejev/front-end-resources)
 + [Inspiration](inspiration.md)
 + [Q/A](#qa)
@@ -44,7 +45,7 @@
 - [x] [Day 2](week-04/day-02/README.md) - 
 - [x] [Day 3](week-04/day-03/README.md) - Problem solving and BubbleSort algorithm.
 - [x] [Day 4](week-04/day-04/README.md) - Stack, Queue, Linked Lists, and how to publish a static website with GitHub Pages and Surge.
-
+- [x] [Day 5](week-04/day-05/README.md) - Stack, Queue, Linked Lists, and how to publish a static website with GitHub Pages and Surge.
 
 ## [Q/A](questions-and-answers.md)
 
