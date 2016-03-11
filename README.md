@@ -42,10 +42,9 @@
 ### Week 4
 
 - [x] [Day 1](week-04/day-01/README.md) - Understanding `this`.
-- [x] [Day 2](week-04/day-02/README.md) - 
-- [x] [Day 3](week-04/day-03/README.md) - Problem solving and BubbleSort algorithm.
-- [x] [Day 4](week-04/day-04/README.md) - Stack, Queue, Linked Lists, and how to publish a static website with GitHub Pages and Surge.
-- [x] [Day 5](week-04/day-05/README.md) - Stack, Queue, Linked Lists, and how to publish a static website with GitHub Pages and Surge.
+- [x] Day 2 - Problem solving and BubbleSort algorithm.
+- [x] Day 3 - Stack, Queue, Linked Lists, and how to publish a static website with GitHub Pages and Surge.
+- [x] [Day 4](week-04/day-04/README.md) - Recursion, Hacking Your Career.
 
 ## [Q/A](questions-and-answers.md)
 
