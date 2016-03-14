@@ -36,7 +36,7 @@
 
 ## Problems
 
-:rocket: [Daily research](daily-research.md) :rocket:
+:rocket: [Research](research.md) :rocket:
 
 ## References
 
