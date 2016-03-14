@@ -6,7 +6,7 @@ Write a function that renders a button with a label `Continue`. When user clicks
 
 ## 1.1
 
-Make sure the previous function takes a string as a parameter. That string should be a label for the second button.
+Make sure the previous function takes a string as a parameter. That string should be a message to render.
 
 ## 2.
 
