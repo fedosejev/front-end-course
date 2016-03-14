@@ -4,6 +4,10 @@
 
 Write a function that renders a button with a label `Continue`. When user clicks on that button it gets disabled and then a new button is rendered underneath with a label `Finish`. When user clicks on that button it gets disabled and then a message is rendered underneath: `All done!`
 
+## 1.1
+
+Make sure the previous function takes a string as a parameter. That string should be a label for the second button.
+
 ## 2.
 
 ```js
