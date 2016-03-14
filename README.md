@@ -50,7 +50,7 @@
 
 ### Week 5
 
-- [x] [Day 1](week-05/day-01/README.md) - .
+- [x] [Day 1](week-05/day-01/README.md) - Understanding object prototype linking.
 
 ## [Q/A](questions-and-answers.md)
 
