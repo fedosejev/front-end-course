@@ -18,10 +18,6 @@
 
 + [Example](http://jsbin.com/zafade/edit?js)
 
-### What `Object.prototype.hasOwnProperty()` is good for?
-
-+ [Example](http://jsbin.com/rusuwe/edit?js)
-
 ### What `in` operator is good for?
 
 + [Example](http://jsbin.com/nixugu/edit?js)
@@ -30,10 +26,9 @@
 
 + [Example](http://jsbin.com/xaxayi/edit?js)
 
-### How to create complex UI widgets?
+### What `Object.prototype.hasOwnProperty()` is good for?
 
-+ [jQueryUI](https://jqueryui.com/)
-+ [Bootstrap](http://getbootstrap.com/javascript/)
++ [Example](http://jsbin.com/rusuwe/edit?js)
 
 ### How to create a map?
 
@@ -41,22 +36,7 @@
 
 ## Problems
 
-### 1.
-
-Prepare GitHub repositories for the following projects:
-
-1. Week 1: Newspaper web page.
-2. Week 2: Your professional landing web page.
-3. Week 3: Monthly calendar web page.
-4. Week 4: Monthly calendar web page with jQuery.
-
-### 2.
-
 :rocket: [Daily research](daily-research.md) :rocket:
-
-### 3.
-
-
 
 ## References
 
