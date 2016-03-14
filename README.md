@@ -8,6 +8,7 @@
  + [Week 2](#week-2)
  + [Week 3](#week-3)
  + [Week 4](#week-4)
+ + [Week 5](#week-5)
 + [Resources](https://github.com/fedosejev/front-end-resources)
 + [Inspiration](inspiration.md)
 + [Q/A](#qa)
@@ -46,6 +47,10 @@
 - [x] Day 3 - Stack, Queue, Linked Lists, and how to publish a static website with GitHub Pages and Surge.
 - [x] [Day 4](week-04/day-04/README.md) - Recursion, Hacking Your Career.
 - [x] [Project](week-04/project.md#project)
+
+### Week 5
+
+- [x] [Day 1](week-05/day-01/README.md) - .
 
 ## [Q/A](questions-and-answers.md)
 
