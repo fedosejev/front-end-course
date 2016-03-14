@@ -36,7 +36,7 @@
 
 ## Problems
 
-:rocket: [Research](research.md) :rocket:
++ [2 problems](problems.md)
 
 ## References
 
