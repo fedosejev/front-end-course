@@ -2,7 +2,7 @@
 
 ![](http://33.media.tumblr.com/tumblr_m4m07q2EVu1rpkyvk.gif)
 
-[Warm up](warm-up.md)
+:fire: [Warm up](warm-up.md) :fire:
 
 Questions:
 
