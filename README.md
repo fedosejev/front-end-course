@@ -51,6 +51,7 @@
 ### Week 5
 
 - [x] [Day 1](week-05/day-01/README.md) - Understanding object prototype linking.
+- [x] [Day 2](week-05/day-02/README.md) - Introducing jQuery.
 
 ## [Q/A](questions-and-answers.md)
 
