@@ -21,7 +21,7 @@ Given a button:
 
 Write a function that renders a price underneath the button when user clicks on that button.
 
-You don't need to create this button with JavaScript.
+> You don't need to create this button with JavaScript.
 
 ## 3.
 
