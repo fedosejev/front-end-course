@@ -60,7 +60,7 @@ Produce the simplest example of a closure.
 
 ## 5.
 
-Given 3 functions in a global scope create a new function in a global scope that will encapsulate those 3 functions in a private scope. You should still be able to call `restart` from the global scope.
+Given 3 functions in a global scope create a new function in a global scope that encapsulates those 3 functions in a private scope. You should still be able to call `restart` from the global scope.
 
 ```js
 function on() {
