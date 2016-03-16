@@ -25,7 +25,7 @@ Write a function that renders a price underneath the button when user clicks on 
 
 ## 3.
 
-Write a function that takes two parameters: 1) an array of objects where each object has `message` property, 2) function that logs a comment message. This function then logs all comments.
+Write a function that takes two parameters: 1) an array of objects where each object has `message` property, 2) function `getMessage` that logs a comment message. This function then logs all comments.
 
 ```js
 var getMessage = function () {
