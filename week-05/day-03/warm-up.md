@@ -45,6 +45,15 @@ var comments = [
 ];
 ```
 
+For example:
+
+```js
+logComments(comments, getMessage);
+// Yesterday
+// Today
+// Tomorrow
+```
+
 ## 4.
 
 Produce a simplest example of a closure.
