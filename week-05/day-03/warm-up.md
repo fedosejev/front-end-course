@@ -56,7 +56,7 @@ logComments(comments, getMessage);
 
 ## 4.
 
-Produce a simplest example of a closure.
+Produce the simplest example of a closure.
 
 ## 5.
 
