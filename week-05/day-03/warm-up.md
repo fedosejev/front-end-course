@@ -7,8 +7,8 @@ Write a function `Tesla` that can used like this:
 ```js
 var modelS = new Tesla('Model S');
 
-modelS.start(); // 'Started'
-modelS.stop(); // 'Stopped'
+modelS.start(); // 'Started Model S'
+modelS.stop(); // 'Stopped Model S'
 ```
 
 ## 2.
