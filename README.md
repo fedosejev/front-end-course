@@ -52,7 +52,7 @@
 
 - [x] [Day 1](week-05/day-01/README.md) - Understanding object prototype linking.
 - [x] [Day 2](week-05/day-02/README.md) - Introducing jQuery.
-- [x] [Day 3](week-05/day-03/README.md)
+- [x] [Day 3](week-05/day-03/README.md) - Exploring jQuery API.
 
 ## [Q/A](questions-and-answers.md)
 

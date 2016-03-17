@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>JS Bin</title>
+  <script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+</head>
+<body>
+  <ul>
+    <li data-city-name="london">London</li>
+    <li>New York</li>
+    <li data-city-name="los-angeles">Los Angeles</li>
+  </ul>
+  <script>
+    // Wait until the document is ready
+    $(function () {
+      
+      // Insert content inside the selected element(s)
+      $('[data-city-name="london"]').prepend('<small>Popular: </small>');
+      
+      // Insert content after the selected element
+      $('[data-city-name="london"]').append('<small>Popular: </small>');
+      
+    });
+  </script>
+</body>
+</html>

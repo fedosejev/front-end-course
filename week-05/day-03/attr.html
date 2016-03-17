@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>JS Bin</title>
+  <script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+</head>
+<body>
+  <ul>
+    <li data-city-name="london">London</li>
+    <li>New York</li>
+    <li data-city-name="los-angeles">Los Angeles</li>
+  </ul>
+  <script>
+    // Wait until the document is ready
+    $(function () {
+
+      // Select the first element without data-city-name attribute and set that attribute 
+      $('li:not([data-city-name])').first().attr('data-city-name', 'new-york');
+
+      // Get the value of data-city-name attribute
+      console.log($('li[data-city-name="los-angeles"]').attr('data-city-name'));
+      
+    });
+  </script>
+</body>
+</html>

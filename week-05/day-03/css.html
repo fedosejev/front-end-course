@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>JS Bin</title>
+  <script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+</head>
+<body>
+  <ul>
+    <li data-city-name="london">London</li>
+    <li>New York</li>
+    <li data-city-name="los-angeles">Los Angeles</li>
+  </ul>
+  <script>
+    // Wait until the document is ready
+    $(function () {
+      
+      console.log($('[data-city-name="london"]').css('font-size'));
+
+      $('li').css('text-transform', 'uppercase');
+
+      $('li').css({
+        'padding-top': '10px',
+        'padding-bottom': '10px'
+      });
+      
+    });
+  </script>
+</body>
+</html>
