@@ -28,6 +28,8 @@ How to test:
 getFirst([100, 500, 900], console.log); // 100
 ```
 
++ Use [Repl.it](https://repl.it) instead of jsBin this time.
+
 ## 3.
 
 Solve problems `1`, `1.1`, `1.2` and `1.3`: https://github.com/fedosejev/javascript-problems#1
