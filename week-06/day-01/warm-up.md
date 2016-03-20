@@ -16,7 +16,7 @@ var value = getValue(model, 'name');
 console.log(value); // 'Model S'
 ```
 
-+ Use [Repl.it](https://repl.it) instead of jsBin this time.
++ Use [Repl.it](https://repl.it) instead of jsBin.
 
 ## 2.
 
@@ -28,7 +28,7 @@ How to test:
 getFirst([100, 500, 900], console.log); // 100
 ```
 
-+ Use [Repl.it](https://repl.it) instead of jsBin this time.
++ Use [Repl.it](https://repl.it) instead of jsBin.
 
 ## 3.
 
