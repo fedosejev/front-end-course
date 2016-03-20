@@ -16,6 +16,8 @@ var value = getValue(model, 'name');
 console.log(value); // 'Model S'
 ```
 
++ Use https://repl.it instead of jsBin this time.
+
 ## 2.
 
 Solve problems `1`, `1.1`, `1.2` and `1.3`: https://github.com/fedosejev/javascript-problems#1
