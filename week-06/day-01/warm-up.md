@@ -1,5 +1,7 @@
 # Warm up
 
+![](https://45.media.tumblr.com/04a67b7ef443fe6f1300a3b113f8037a/tumblr_noxmlwv1841qbls2ko1_500.gif)
+
 ## 1.
 
 Write a function `getValue` that takes 2 parameters: 1) object and 2) key name and returns a value for that key in that object.
