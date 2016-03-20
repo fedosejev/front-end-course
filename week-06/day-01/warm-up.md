@@ -25,7 +25,7 @@ Write a function `logFirst` that takes 2 parameters: 1) an array of numbers and 
 How to test:
 
 ```js
-getFirst([100, 500, 900], console.log); // 100
+logFirst([100, 500, 900], console.log); // 100
 ```
 
 + Use [Repl.it](https://repl.it) instead of jsBin.
