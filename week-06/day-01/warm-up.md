@@ -20,6 +20,16 @@ console.log(value); // 'Model S'
 
 ## 2.
 
+Write a function `logFirst` that takes 2 parameters: 1) an array of numbers and 2) a function that logs a number, then `logFirst` logs the first number in the array.
+
+How to test:
+
+```js
+getFirst([100, 500, 900], console.log); // 100
+```
+
+## 3.
+
 Solve problems `1`, `1.1`, `1.2` and `1.3`: https://github.com/fedosejev/javascript-problems#1
 
 ![](https://45.media.tumblr.com/04a67b7ef443fe6f1300a3b113f8037a/tumblr_noxmlwv1841qbls2ko1_500.gif)
