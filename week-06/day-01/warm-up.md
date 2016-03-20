@@ -16,7 +16,7 @@ var value = getValue(model, 'name');
 console.log(value); // 'Model S'
 ```
 
-+ Use https://repl.it instead of jsBin this time.
++ Use [Repl.it](https://repl.it) instead of jsBin this time.
 
 ## 2.
 
