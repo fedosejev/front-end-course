@@ -9,6 +9,7 @@
  + [Week 3](#week-3)
  + [Week 4](#week-4)
  + [Week 5](#week-5)
+ + [Week 6](#week-6)
 + [Resources](https://github.com/fedosejev/front-end-resources)
 + [Inspiration](inspiration.md)
 + [Q/A](#qa)
@@ -53,6 +54,10 @@
 - [x] [Day 1](week-05/day-01/README.md) - Understanding object prototype linking.
 - [x] [Day 2](week-05/day-02/README.md) - Introducing jQuery.
 - [x] [Day 3](week-05/day-03/README.md) - Exploring jQuery API.
+
+### Week 6
+
+- [x] [Day 1](week-06/day-01/README.md)
 
 ## [Q/A](questions-and-answers.md)
 
