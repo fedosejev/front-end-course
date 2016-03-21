@@ -33,6 +33,32 @@ What will be logged and why?
 
 + [Example](https://repl.it/ByFc/0)
 
+## 0.2
+
+```js
+var list = [];
+
+function addOne(list) {
+    list.push(1);
+}
+
+function addTwo(list) {
+    list.push(2);
+}
+
+function addThree(list) {
+    list.push(3);
+}
+
+addOne(list);
+addTwo(list);
+addThree(list);
+
+console.log(list); // ???
+```
+
+What will be logged and why?
+
 ## 1.
 
 Write a function `getValue` that takes 2 parameters: 1) object and 2) key name and returns a value for that key in that object.
