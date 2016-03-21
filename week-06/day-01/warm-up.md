@@ -1,5 +1,23 @@
 # Warm up
 
+## 0.
+
+```js
+var whiteTesla = {
+  name: 'Model X'  
+};
+
+var redTesla = whiteTesla;
+
+redTesla.name = 'Model S';
+
+console.log(whiteTesla.name); // ?
+```
+
+What will be logged an why?
+
++ [Example](https://repl.it/ByF1/0)
+
 ## 1.
 
 Write a function `getValue` that takes 2 parameters: 1) object and 2) key name and returns a value for that key in that object.
