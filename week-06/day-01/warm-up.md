@@ -62,6 +62,6 @@ logAny([100, 500, 900], 3, console.log); // 500
 
 ## 4.
 
-Solve problems `1`, `1.1`, `1.2` and `1.3`: https://github.com/fedosejev/javascript-problems#1
-
 ![](https://45.media.tumblr.com/04a67b7ef443fe6f1300a3b113f8037a/tumblr_noxmlwv1841qbls2ko1_500.gif)
+
+Solve problems `1`, `1.1`, `1.2` and `1.3`: https://github.com/fedosejev/javascript-problems#1
