@@ -18,6 +18,21 @@ What will be logged an why?
 
 + [Example](https://repl.it/ByF1/0)
 
+## 0.1
+
+```js
+var models = ['Model S', 'Model X'];
+var teslas = models;
+teslas[2] = 'Model 3';
+
+console.log(models[2]); // ???
+```
+
+What will be logged an why?
+
+
++ [Example](https://repl.it/ByFc/0)
+
 ## 1.
 
 Write a function `getValue` that takes 2 parameters: 1) object and 2) key name and returns a value for that key in that object.
