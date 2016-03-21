@@ -11,7 +11,7 @@ var redTesla = whiteTesla;
 
 redTesla.name = 'Model S';
 
-console.log(whiteTesla.name); // ?
+console.log(whiteTesla.name); // ???
 ```
 
 What will be logged an why?
