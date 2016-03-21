@@ -38,16 +38,16 @@ What will be logged and why?
 ```js
 var list = [];
 
-function addOne(list) {
-    list.push(1);
+function addOne(items) {
+    items.push(1);
 }
 
-function addTwo(list) {
-    list.push(2);
+function addTwo(items) {
+    items.push(2);
 }
 
-function addThree(list) {
-    list.push(3);
+function addThree(items) {
+    items.push(3);
 }
 
 addOne(list);
