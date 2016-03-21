@@ -14,7 +14,7 @@ redTesla.name = 'Model S';
 console.log(whiteTesla.name); // ???
 ```
 
-What will be logged an why?
+What will be logged and why?
 
 + [Example](https://repl.it/ByF1/0)
 
@@ -28,7 +28,7 @@ teslas[2] = 'Model 3';
 console.log(models[2]); // ???
 ```
 
-What will be logged an why?
+What will be logged and why?
 
 
 + [Example](https://repl.it/ByFc/0)
