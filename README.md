@@ -58,6 +58,7 @@
 ### Week 6
 
 - [x] [Day 1](week-06/day-01/README.md)
+- [x] [Day 2](week-06/day-02/README.md)
 
 ## [Q/A](questions-and-answers.md)
 
