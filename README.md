@@ -10,6 +10,7 @@
  + [Week 4](#week-4)
  + [Week 5](#week-5)
  + [Week 6](#week-6)
+ + [Week 7](#week-7)
 + [Resources](https://github.com/fedosejev/front-end-resources)
 + [Inspiration](inspiration.md)
 + [Q/A](#qa)
@@ -59,6 +60,10 @@
 
 - [x] [Day 1](week-06/day-01/README.md)
 - [x] [Day 2](week-06/day-02/README.md)
+
+### Week 7
+
+- [x] [Day 1](week-07/day-01/README.md)
 
 ## [Q/A](questions-and-answers.md)
 
