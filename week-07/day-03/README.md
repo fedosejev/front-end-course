@@ -27,6 +27,8 @@ var parentElement = document.getElementById('react-app');
 var reactComponent = ReactDOM.render(<ReactClass />, parentElement);
 ```
 
+#### Example
+
 + [List of Tesla cars example without JSX syntax](examples/react-component-without-jsx.html)
 
 ```js
