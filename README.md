@@ -65,6 +65,7 @@
 
 - [x] [Day 1](week-07/day-01/README.md)
 - [x] [Day 2](week-07/day-02/README.md)
+- [x] [Day 3](week-07/day-03/README.md)
 
 ## [Q/A](questions-and-answers.md)
 
