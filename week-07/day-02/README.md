@@ -71,6 +71,22 @@ ReactDOM.render(listOfTeslaCars, parentElement);
 
 ### How to create React elements with JSX?
 
+First, import:
+
+```html
+<script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.8.23/browser.min.js"></script>
+```
+
+Then, wrap your JSX code into:
+
+```html
+<script type="text/babel">
+  // Your code goes here...
+</script>
+```
+
+Example of JSX syntax:
+
 ```jsx
 var listOfTeslaCars = <ul>
   <li className="model-s">Model S</li>
