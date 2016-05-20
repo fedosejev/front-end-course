@@ -22,7 +22,7 @@ var message = getMessage();
 
 ```js
 var list = window.querySelectorAll('ul');
-li.setAttribute('class', 'new');
+list.setAttribute('class', 'new');
 ```
 
 2 errors.
