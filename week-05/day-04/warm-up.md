@@ -13,7 +13,7 @@ var firstObject = {
 };
 
 var secondObject = {
-  country: 'United Kindgom'
+  country: 'United Kindgom',
   position: 'Instructor'
 };
 
