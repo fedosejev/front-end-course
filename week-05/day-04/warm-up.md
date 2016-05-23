@@ -2,7 +2,7 @@
 
 ## 1.
 
-Write a function `mix` that takes `secondObject` object as a parameter. Then you call `mix` on `firstObject` object and it returns a new object that has keys from `firstObject` and `secondObject`.
+Write a function `mix` that takes `secondObject` object as a parameter. Then you call `mix` on `firstObject` object and it returns a new object that has keys from `firstObject` and `secondObject`. Don't use `Object.assign`.
 
 For example:
 
