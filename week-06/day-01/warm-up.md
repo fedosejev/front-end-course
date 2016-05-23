@@ -96,7 +96,7 @@ Write a function `logAny` that takes 3 parameters: 1) an array of numbers and 2)
 How to test:
 
 ```js
-logAny([100, 500, 900], 3, console.log); // 500
+logAny([100, 500, 900], 3, console.log); // 900
 ```
 
 + Use [Repl.it](https://repl.it) instead of jsBin.
