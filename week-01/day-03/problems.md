@@ -31,7 +31,7 @@ Create a web page (`day-03/solution-03/index.html` file) that renders this list:
 <ul>
   <li>Milk</li>
   <li>Bread</li>
-  <li>Tomatos</li>
+  <li>Tomatoes</li>
 </ul>
 
 ## Problem 4
