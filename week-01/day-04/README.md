@@ -168,7 +168,7 @@ External style sheet file:
       Child selector
     </th>
     <td>
-      Matches an element that is a direct child of anohter.
+      Matches an element that is a direct child of another.
       <br/>
       Example:
       <br/>
